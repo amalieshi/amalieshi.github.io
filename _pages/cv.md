@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Biomedical Engineering, Highest Honor, Georgia Institute of Technology, 2016
 * M.S.E in Biomedical Engineering, Johns Hopkins University, 2019
-* Ph.D in Biomedical Engineering, Unknown University, Unknown
+<!--- * Ph.D in Biomedical Engineering, Unknown University, Unknown --->
 
 Research experience
 ======
@@ -102,4 +102,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+<!--- * Currently signed in to 43 different slack teams--->
