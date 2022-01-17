@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -49,14 +49,38 @@ Research experience
 	   * Collected the neurobehavioral data of cats running up and down a ramp or stairs and analyzed the kinematic behavior of the cat with/without the survival surgery using various programs (LabVIEW, Vicon, MATLAB)
   * Supervisor: Professor T Richard Nichols, Ph.D.
   
-Skills
+Coursework
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Mechanical Modeling and Design of the Biological System
+  * EN.580.642 Tissue Engineering: introducing the application of engineering fundamentals to designing biological tissue substitutes and concepts of tissue development, structure and function; introducing different sources of stem cells and their applications to tissue engineering.
+  * BMED 3310 - Biotransport: fundamentals of momentum, heat and mass transfer and their application to biotransport problems.
+  * BMED 3400 - Introduction to Biomechanics: deformable objects, kinetics and dynamics of rigid body, statics
+  * BMED 4758 - Biosolid Mechanics: the mathematical preliminaries and theoretical framework to analyze the mechanics of biological materials to model biological tissues
+  * BMED 2210 - Conservation Principle in BME: solving engineering problems using common engineering problem-solving practices including model-based reasoning, systems-thinking, conservation and accounting principles for extensive properties, material properties, constitutive equations, and physical constraints.</div>
+  * PHYS 2211/2212 - Intro to Physics I&II: A calculus-based course with a laboratory covering classical mechanics, applications of classical mechanics, oscillations, and waves; and a calculus-based course with laboratory covering electromagnetism, applications of electromagnetism, light, and modern physics. 
+  * Calculus 1-3, Differential Equations, Linear Algebra
+  * ECE 3710+3741, Circuit design and lab
+* Chemistry
+  * CHEM 3511 - A Survey of Biochemistry: fundamentals of contemporary biochemistry, including the structure and activity of the four major classes of biological macromolecules and the chemical principles that underpin their function  
+  * CHEM 2380 - Synthesis I Laboratory: learn and utilize the basic techniques associated with performing the synthesis, isolation, purification, identification, and characterization of organic compounds and the theoretical principles behind the techniques used 
+  * CHEM 2311/2312 - Organic Chemistry I&II: structure and reactivity of organic molecules
+  * MSE 2001 - Principles and Applications of Engineering Materials: the structure-property-processing-performance relationships of
+  * CHEM 1211/1212 - Inorganic Chemistry I&II: structure and reactivity of inorganic molecules  
+* Biomedical Engineering Design and Problem Solving
+  * BMED 2310 - Introduction to Biomedical Engineering Design: to analyze the biomedical context and physiological need for existing medical devices; to apply engineering design processes to medical products and systems; to exercise skills in design communication including drawing, modeling and CAD 
+  * BMED 4602 - Capstone Design: Developed a product that delivers a comfortable environment for surgeons; Designed and made a wearable and high-fidelity prototype that cools down the user; As team leader, maintained team communication between the client and instructors; Conducted prior art search; hands-on experience with project planning, concept and prototype development, design verification testing, FDA Quality Systems Regulations, design controls and regulatory pathways for commercialization of medical devices. Additionally, requirementsof business functions such as marketing, sales, manufacturing, finance, intellectual property and the effects on the product development process as class presentations, projects and reports.
+  * BMED 1300 - Problems in Biomedical Engineering: Develop skills to find the most reliable, up-to-date and relevant information needed to solve a problem     
+* Physiology
+  * BMED 3600 - Physiology of Cell and Molecular System: the anatomy of mammalian cells: structure, organization and basic function of organelles, gene expression, intracellular signaling cascades, the cytoskeleton, the cell life cycle, cell migration and the extracellular matrix, and analytical methods used in cell biology research 
+  * BMED 3100 - System Physiology: A system based introduction of gastrointestinal, neurophysiological, renal, and cardiovascular physiology  
+  * EN.580.418. Principles of Pulmonary Physiology : the structure and function of the respiratory system. Topics to be covered will include basic anatomy, lung mechanics, gas exchange, tests of pulmonary function and cardiopulmonary exercise, and quantitative/engineering analyses of these topics. 
+* Statistics, Computational Modeling, and Applications
+  * BMED 2400 - Introduction to Bioengineering Statistics: the use of statistical inference for the modeling and analysis of data from a variety of sources under the umbrella of biomedical engineering research. Topic include: design of biomedical studies, sample size problem, prediction via a statistical model, testing hypotheses, Bayesian methods, etc.   
+  * BMED 3520 - Biomedical System and Modeling:biomathematical modeling including the choice of a modeling framework from among alternative approaches; the design of interaction diagrams; the identification of variables and processes; the design of systems models; standard methods of parameter estimation; the analysis of steady states, stability, sensitivity and gains; numerical evaluations of transients; phase-plane analysis; and the simulation of representative biomedical scenarios   
+  * EN.580.439 - Models of the Neuron: Single-neuron modeling, emphasizing the use of computational models as links between the properties of neurons at several levels of detail. Topics include thermodynamics of ion flow in aqueous environments, biology and biophysics of ion channels, gating, nonlinear dynamics as a way of studying the collective properties of channels in a membrane, synaptic transmission, and integration of electrical activity in multi-compartment dendritic tree models. Point process statistical modeling.  
+  * EN.580.429 - Systems Bioengineering III: Modeling biological pathway as linear/nonlinear, stochastic, spatial system; modeling cellular network and analyze the system's stability.  
+  * EN.580.430 - Systems Pharmacology and Personalized Medicine: Take a whole-system view of drugs, drug targets, and the molecular and physiological environment in which the drug acts.  
+  * EN.580.428 - Systems Bioengineering I: Part 1 - Data Science: an introduction to data science and machine learning for applications in biomedical engineering; cover topics in biomedical signal processing (1D convolution, denoising, filtering), biomedical image processing (2D convolution, denoising, edge detection, template matching), biomedical data reduction (feature extraction, principal component analysis), and biomedical data regression, classification (including deep learning), and clustering. Part 2 - Computational Medicine: A quantitative, model-oriented investigation of the cardiovascular system.   
 
 Publications
 ======
