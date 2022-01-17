@@ -29,11 +29,11 @@ Research experience
 * December 2017 - April 2018: Research Assistant
   * Myocarditis Lab, Department of Pathology at Johns Hopkins University
   * Duties included:
-	   *Assisted in the rodent survival surgery to create the heart attack disease model and perform molecular biology experiments such as PCR, flow cytometry, ELISA and Western Blot
+	   * Assisted in the rodent survival surgery to create the heart attack disease model and perform molecular biology experiments such as PCR, flow cytometry, ELISA and Western Blot
 	   
-	   *Harvested heart and spleen and evaluated the histology sample of the heart - Completed ACUC Courses: Rodent Handling; Small Animal Surgery; Mouse Breeding and Colony Management  
+	   * Harvested heart and spleen and evaluated the histology sample of the heart - Completed ACUC Courses: Rodent Handling; Small Animal Surgery; Mouse Breeding and Colony Management  
 	   
-	   *Cultured cell in vitro and perform cell sorting
+	   * Cultured cell in vitro and perform cell sorting
 	   
 	   *Annotated human heart samples with microscope and performed clinical data analysis with ANCOVA 
   * Supervisor: Professor Daniela Čiháková, M.D., Ph.D., D(ABMLI)
@@ -41,7 +41,7 @@ Research experience
 * September 2017 - December 2017: Research Assistant
   * Laboratory of Computational Motor Control at Johns Hopkins University
   * Duties included:
-	   *Designed experiments using robotic manipulandum to test the hypothesis whether the holding and moving neural circuits of the wrist are separate through force adaptation and error clamp trials
+	   * Designed experiments using robotic manipulandum to test the hypothesis whether the holding and moving neural circuits of the wrist are separate through force adaptation and error clamp trials
 
 * September 2013 - July 2017: Research Assistant
   * Neurophysiology Lab at Georgia Institute of Technology
