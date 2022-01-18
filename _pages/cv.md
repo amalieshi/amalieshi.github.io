@@ -56,7 +56,7 @@ Coursework
   * BMED 3310 - Biotransport: fundamentals of momentum, heat and mass transfer and their application to biotransport problems.
   * BMED 3400 - Introduction to Biomechanics: deformable objects, kinetics and dynamics of rigid body, statics
   * BMED 4758 - Biosolid Mechanics: the mathematical preliminaries and theoretical framework to analyze the mechanics of biological materials to model biological tissues
-  * BMED 2210 - Conservation Principle in BME: solving engineering problems using common engineering problem-solving practices including model-based reasoning, systems-thinking, conservation and accounting principles for extensive properties, material properties, constitutive equations, and physical constraints.</div>
+  * BMED 2210 - Conservation Principle in BME: solving engineering problems using common engineering problem-solving practices including model-based reasoning, systems-thinking, conservation and accounting principles for extensive properties, material properties, constitutive equations, and physical constraints.
   * PHYS 2211/2212 - Intro to Physics I&II: A calculus-based course with a laboratory covering classical mechanics, applications of classical mechanics, oscillations, and waves; and a calculus-based course with laboratory covering electromagnetism, applications of electromagnetism, light, and modern physics. 
   * Calculus 1-3, Differential Equations, Linear Algebra
   * ECE 3710+3741, Circuit design and lab
