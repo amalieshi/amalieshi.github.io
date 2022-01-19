@@ -15,6 +15,7 @@ Education
 * M.S.E in Biomedical Engineering, Johns Hopkins University, 2019
 <!--- * Ph.D in Biomedical Engineering, Unknown University, Unknown --->
 
+
 Research experience
 ======
 * April 2018 - December 2019: Research Assistant
@@ -48,6 +49,27 @@ Research experience
 	   * Participated in the feline survival surgery (FHL muscle nerve reinnervation surgery)	   
 	   * Collected the neurobehavioral data of cats running up and down a ramp or stairs and analyzed the kinematic behavior of the cat with/without the survival surgery using various programs (LabVIEW, Vicon, MATLAB)
   * Supervisor: Professor T Richard Nichols, Ph.D.
+
+Work experience
+======
+* January 2020 - February 2021: Software Applications Engineer
+  * Aphena Pharma Solutions - Easton, MD
+  * Duties included: 
+      * Design, develop, and integrate scalable pharmaceutical manufacturing reporting software (C#) to adhere to FDA GxP compliance and improve process efficiency
+	  * Participate in many aspects of the software life cycle, including development, testing, and deployment
+	  * Create pipelines to aggregate customer SQL data, transform results into intermediate XML, and render to the user as HTML 
+	  * Set up testing environments, write new software release tests, and perform formal test procedures on new software 
+
+* January 2020 - February 2021: Pharmaceutical Engineer
+  * Aphena Pharma Solutions - Easton, MD
+  * Duties included: 
+      * Developed and authored protocols and reports. Documented the commissioning of automated systems (refrigerators, cartoning machine, filling, capping, and labeling machine, blending tanks, water purification system, and serialization machine) through the development and field execution of IQOQ protocols and process validation of the blending, packaging, filling, serialization, and cleaning processes
+	  * Proposed solutions to inventory control and management issues for cost reduction
+	  * Made lab-scale commercial products to optimize process using tech transfer packages
+	  * Designed, procured, and fabricated tooling and fixtures to support the manufacturing process
+      * Set up preventive maintenance(PM) schedules and provide training, PM, and work instruction to the operators and mechanics
+      * Completed corrective actions and preventive actions (CAPA) on time with a clear understanding of cGMP practice
+  
   
 Coursework
 ======
@@ -68,7 +90,7 @@ Coursework
   * CHEM 1211/1212 - Inorganic Chemistry I&II: structure and reactivity of inorganic molecules  
 * Biomedical Engineering Design and Problem Solving
   * BMED 2310 - Introduction to Biomedical Engineering Design: to analyze the biomedical context and physiological need for existing medical devices; to apply engineering design processes to medical products and systems; to exercise skills in design communication including drawing, modeling and CAD 
-  * BMED 4602 - Capstone Design: Developed a product that delivers a comfortable environment for surgeons; Designed and made a wearable and high-fidelity prototype that cools down the user; As team leader, maintained team communication between the client and instructors; Conducted prior art search; hands-on experience with project planning, concept and prototype development, design verification testing, FDA Quality Systems Regulations, design controls and regulatory pathways for commercialization of medical devices. Additionally, requirementsof business functions such as marketing, sales, manufacturing, finance, intellectual property and the effects on the product development process as class presentations, projects and reports.
+  * BMED 4602 - Capstone Design: Developed a product that delivers a comfortable environment for surgeons; Designed and made a wearable and high-fidelity prototype that cools down the user; As the team leader, I maintained team communication between the client and instructors; Conducted prior art search; hands-on experience with project planning, concept and prototype development, design verification testing, FDA Quality Systems Regulations, design controls and regulatory pathways for commercialization of medical devices. Additionally, requirementsof business functions such as marketing, sales, manufacturing, finance, intellectual property and the effects on the product development process as class presentations, projects and reports.
   * BMED 1300 - Problems in Biomedical Engineering: Develop skills to find the most reliable, up-to-date and relevant information needed to solve a problem     
 * Physiology
   * BMED 3600 - Physiology of Cell and Molecular System: the anatomy of mammalian cells: structure, organization and basic function of organelles, gene expression, intracellular signaling cascades, the cytoskeleton, the cell life cycle, cell migration and the extracellular matrix, and analytical methods used in cell biology research 
