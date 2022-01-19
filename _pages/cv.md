@@ -22,7 +22,6 @@ Certifications and Award
 * Mobile Atlanta Scholarship, 2015 [BME student honored for work on wireless medical monitoring system](https://rh.gatech.edu/news/370611/upward-mobility)
 
 
-
 Research experience
 ======
 * April 2018 - December 2019: Research Assistant
@@ -60,7 +59,7 @@ Research experience
 Work experience
 ======
 * January 2020 - February 2021: Software Applications Engineer
-  * Aphena Pharma Solutions - Easton, MD
+  * [Informetric System Inc](https://www.informetric.com/) - Easton, MD
   * Duties included: 
       * Design, develop, and integrate scalable pharmaceutical manufacturing reporting software (C#) to adhere to FDA GxP compliance and improve process efficiency
 	  * Participate in many aspects of the software life cycle, including development, testing, and deployment
@@ -68,7 +67,7 @@ Work experience
 	  * Set up testing environments, write new software release tests, and perform formal test procedures on new software 
 
 * January 2020 - February 2021: Pharmaceutical Engineer
-  * Aphena Pharma Solutions - Easton, MD
+  * [Aphena Pharma Solutions](https://aphenapharma.com/) - Easton, MD
   * Duties included: 
       * Developed and authored protocols and reports. Documented the commissioning of automated systems (refrigerators, cartoning machine, filling, capping, and labeling machine, blending tanks, water purification system, and serialization machine) through the development and field execution of IQOQ protocols and process validation of the blending, packaging, filling, serialization, and cleaning processes
 	  * Proposed solutions to inventory control and management issues for cost reduction
