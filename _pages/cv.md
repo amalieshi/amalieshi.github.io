@@ -59,7 +59,7 @@ Research experience
 Work experience
 ======
 * January 2020 - February 2021: Software Applications Engineer
-  * [Informetric System Inc](https://www.informetric.com/) - Easton, MD
+  * [Informetric System Inc](https://www.informetric.com/) - New Providence, NJ
   * Duties included: 
       * Design, develop, and integrate scalable pharmaceutical manufacturing reporting software (C#) to adhere to FDA GxP compliance and improve process efficiency
 	  * Participate in many aspects of the software life cycle, including development, testing, and deployment
