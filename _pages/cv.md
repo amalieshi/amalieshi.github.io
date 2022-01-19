@@ -33,7 +33,7 @@ Research experience
 	   * Assisted in the rodent survival surgery to create the heart attack disease model and perform molecular biology experiments such as PCR, flow cytometry, ELISA and Western Blot
 	   * Harvested heart and spleen and evaluated the histology sample of the heart - Completed ACUC Courses: Rodent Handling; Small Animal Surgery; Mouse Breeding and Colony Management  
 	   * Cultured cell in vitro and perform cell sorting
-	   *Annotated human heart samples with microscope and performed clinical data analysis with ANCOVA 
+	   * Annotated human heart samples with microscope and performed clinical data analysis with ANCOVA 
   * Supervisor: Professor Daniela Čiháková, M.D., Ph.D., D(ABMLI)
   
 * September 2017 - December 2017: Research Assistant
