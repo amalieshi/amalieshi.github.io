@@ -15,6 +15,13 @@ Education
 * M.S.E in Biomedical Engineering, Johns Hopkins University, 2019
 <!--- * Ph.D in Biomedical Engineering, Unknown University, Unknown --->
 
+Certifications and Award
+======
+* Engineer-In-Training (EIT), Chemical Engineering Discipline, Maryland State Board for Professional Engineers, August 2021
+* Certified Six Sigma Yellow Belt (CSSYB), American Society for Quality (ASQ) September 2020
+* Mobile Atlanta Scholarship, 2015 [BME student honored for work on wireless medical monitoring system](https://rh.gatech.edu/news/370611/upward-mobility)
+
+
 
 Research experience
 ======
