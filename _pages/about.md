@@ -26,11 +26,11 @@ Publications
 
 <a href="https://jscholarship.library.jhu.edu/handle/1774.2/62312">The Use of 3D-Printed Phantoms For Evaluating CT Image Quality</a>
 <br>
- <b>Hui Shi</b>, <a>Supervised by Prof. J Webster Stayman</a>
+ <b>Hui Shi</b> 
 \[<a href="http://jhir.library.jhu.edu/handle/1774.2/62312">Master's Research Thesis</a>\]
 
 <a href="https://smartech.gatech.edu/handle/1853/58478/">The Use of Implanted Intramuscular FES system for Ameliorating Foot Drop During Locomotion</a>
 <br>
- <b>Hui Shi</b>, <a>Supervised by Prof. T Richard Nichols</a>
+ <b>Hui Shi</b>
 \[<a href="http://hdl.handle.net/1853/58478">Undergraduate Research Thesis</a>\]
 
