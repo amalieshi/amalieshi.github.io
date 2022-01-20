@@ -15,6 +15,13 @@ Education
 * M.S.E in Biomedical Engineering, Johns Hopkins University, 2019
 <!--- * Ph.D in Biomedical Engineering, Unknown University, Unknown --->
 
+Certifications and Award
+======
+* Engineer-In-Training (EIT), Chemical Engineering Discipline, Maryland State Board for Professional Engineers, August 2021
+* Certified Six Sigma Yellow Belt (CSSYB), American Society for Quality (ASQ) September 2020
+* Mobile Atlanta Scholarship, 2015 [BME student honored for work on wireless medical monitoring system](https://rh.gatech.edu/news/370611/upward-mobility)
+
+
 Research experience
 ======
 * April 2018 - December 2019: Research Assistant
@@ -32,7 +39,7 @@ Research experience
 	   * Assisted in the rodent survival surgery to create the heart attack disease model and perform molecular biology experiments such as PCR, flow cytometry, ELISA and Western Blot
 	   * Harvested heart and spleen and evaluated the histology sample of the heart - Completed ACUC Courses: Rodent Handling; Small Animal Surgery; Mouse Breeding and Colony Management  
 	   * Cultured cell in vitro and perform cell sorting
-	   *Annotated human heart samples with microscope and performed clinical data analysis with ANCOVA 
+	   * Annotated human heart samples with microscope and performed clinical data analysis with ANCOVA 
   * Supervisor: Professor Daniela Čiháková, M.D., Ph.D., D(ABMLI)
   
 * September 2017 - December 2017: Research Assistant
@@ -48,6 +55,27 @@ Research experience
 	   * Participated in the feline survival surgery (FHL muscle nerve reinnervation surgery)	   
 	   * Collected the neurobehavioral data of cats running up and down a ramp or stairs and analyzed the kinematic behavior of the cat with/without the survival surgery using various programs (LabVIEW, Vicon, MATLAB)
   * Supervisor: Professor T Richard Nichols, Ph.D.
+
+Work experience
+======
+* January 2020 - February 2021: Software Applications Engineer
+  * [Informetric System Inc](https://www.informetric.com/) - New Providence, NJ
+  * Duties included: 
+      * Design, develop, and integrate scalable pharmaceutical manufacturing reporting software (C#) to adhere to FDA GxP compliance and improve process efficiency
+	  * Participate in many aspects of the software life cycle, including development, testing, and deployment
+	  * Create pipelines to aggregate customer SQL data, transform results into intermediate XML, and render to the user as HTML 
+	  * Set up testing environments, write new software release tests, and perform formal test procedures on new software 
+
+* January 2020 - February 2021: Pharmaceutical Engineer
+  * [Aphena Pharma Solutions](https://aphenapharma.com/) - Easton, MD
+  * Duties included: 
+      * Developed and authored protocols and reports. Documented the commissioning of automated systems (refrigerators, cartoning machine, filling, capping, and labeling machine, blending tanks, water purification system, and serialization machine) through the development and field execution of IQOQ protocols and process validation of the blending, packaging, filling, serialization, and cleaning processes
+	  * Proposed solutions to inventory control and management issues for cost reduction
+	  * Made lab-scale commercial products to optimize process using tech transfer packages
+	  * Designed, procured, and fabricated tooling and fixtures to support the manufacturing process
+      * Set up preventive maintenance(PM) schedules and provide training, PM, and work instruction to the operators and mechanics
+      * Completed corrective actions and preventive actions (CAPA) on time with a clear understanding of cGMP practice
+  
   
 Coursework
 ======
@@ -68,19 +96,21 @@ Coursework
   * CHEM 1211/1212 - Inorganic Chemistry I&II: structure and reactivity of inorganic molecules  
 * Biomedical Engineering Design and Problem Solving
   * BMED 2310 - Introduction to Biomedical Engineering Design: to analyze the biomedical context and physiological need for existing medical devices; to apply engineering design processes to medical products and systems; to exercise skills in design communication including drawing, modeling and CAD 
-  * BMED 4602 - Capstone Design: Developed a product that delivers a comfortable environment for surgeons; Designed and made a wearable and high-fidelity prototype that cools down the user; As team leader, maintained team communication between the client and instructors; Conducted prior art search; hands-on experience with project planning, concept and prototype development, design verification testing, FDA Quality Systems Regulations, design controls and regulatory pathways for commercialization of medical devices. Additionally, requirementsof business functions such as marketing, sales, manufacturing, finance, intellectual property and the effects on the product development process as class presentations, projects and reports.
+  * BMED 4602 - Capstone Design: Developed a product that delivers a comfortable environment for surgeons; Designed and made a wearable and high-fidelity prototype that cools down the user; As the team leader, I maintained team communication between the client and instructors; Conducted prior art search; hands-on experience with project planning, concept and prototype development, design verification testing, FDA Quality Systems Regulations, design controls and regulatory pathways for commercialization of medical devices. Additionally, requirementsof business functions such as marketing, sales, manufacturing, finance, intellectual property and the effects on the product development process as class presentations, projects and reports.
   * BMED 1300 - Problems in Biomedical Engineering: Develop skills to find the most reliable, up-to-date and relevant information needed to solve a problem     
 * Physiology
   * BMED 3600 - Physiology of Cell and Molecular System: the anatomy of mammalian cells: structure, organization and basic function of organelles, gene expression, intracellular signaling cascades, the cytoskeleton, the cell life cycle, cell migration and the extracellular matrix, and analytical methods used in cell biology research 
   * BMED 3100 - System Physiology: A system based introduction of gastrointestinal, neurophysiological, renal, and cardiovascular physiology  
   * EN.580.418. Principles of Pulmonary Physiology : the structure and function of the respiratory system. Topics to be covered will include basic anatomy, lung mechanics, gas exchange, tests of pulmonary function and cardiopulmonary exercise, and quantitative/engineering analyses of these topics. 
 * Statistics, Computational Modeling, and Applications
-  * BMED 2400 - Introduction to Bioengineering Statistics: the use of statistical inference for the modeling and analysis of data from a variety of sources under the umbrella of biomedical engineering research. Topic include: design of biomedical studies, sample size problem, prediction via a statistical model, testing hypotheses, Bayesian methods, etc.   
+  * BMED 2400 - Introduction to Bioengineering Statistics: the use of statistical inference for the modeling and analysis of data from a variety of sources under the umbrella of biomedical engineering research. Topics include: design of biomedical studies, sample size problem, prediction via a statistical model, testing hypotheses, Bayesian methods, etc.   
   * BMED 3520 - Biomedical System and Modeling:biomathematical modeling including the choice of a modeling framework from among alternative approaches; the design of interaction diagrams; the identification of variables and processes; the design of systems models; standard methods of parameter estimation; the analysis of steady states, stability, sensitivity and gains; numerical evaluations of transients; phase-plane analysis; and the simulation of representative biomedical scenarios   
   * EN.580.439 - Models of the Neuron: Single-neuron modeling, emphasizing the use of computational models as links between the properties of neurons at several levels of detail. Topics include thermodynamics of ion flow in aqueous environments, biology and biophysics of ion channels, gating, nonlinear dynamics as a way of studying the collective properties of channels in a membrane, synaptic transmission, and integration of electrical activity in multi-compartment dendritic tree models. Point process statistical modeling.  
   * EN.580.429 - Systems Bioengineering III: Modeling biological pathway as linear/nonlinear, stochastic, spatial system; modeling cellular network and analyze the system's stability.  
   * EN.580.430 - Systems Pharmacology and Personalized Medicine: Take a whole-system view of drugs, drug targets, and the molecular and physiological environment in which the drug acts.  
-  * EN.580.428 - Systems Bioengineering I: Part 1 - Data Science: an introduction to data science and machine learning for applications in biomedical engineering; cover topics in biomedical signal processing (1D convolution, denoising, filtering), biomedical image processing (2D convolution, denoising, edge detection, template matching), biomedical data reduction (feature extraction, principal component analysis), and biomedical data regression, classification (including deep learning), and clustering. Part 2 - Computational Medicine: A quantitative, model-oriented investigation of the cardiovascular system.   
+  * EN.580.428 - Systems Bioengineering I: 
+    * Part 1 - Data Science: an introduction to data science and machine learning for applications in biomedical engineering; cover topics in biomedical signal processing (1D convolution, denoising, filtering), biomedical image processing (2D convolution, denoising, edge detection, template matching), biomedical data reduction (feature extraction, principal component analysis), and biomedical data regression, classification (including deep learning), and clustering. 
+	* Part 2 - Computational Medicine: A quantitative, model-oriented investigation of the cardiovascular system.   
 
 Publications
 ======
