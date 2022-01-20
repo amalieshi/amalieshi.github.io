@@ -13,7 +13,7 @@ I am a biomedical engineer who specializes in computational modeling, data scien
 
 Previous projects include the implantable device design improvement, kinesiology study of peripheral nerve injury on feline models, myocarditis effects on immune cell clustering in the cardiac tissues, and data analysis of a wearable ubiquitous sensing system that tracks the adherence of medication regimen.
 
-Publication
+Publications
 ===
 
 <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7643885/">Performance Assessment of Texture Reproduction in High-Resolution CT</a>
@@ -24,5 +24,13 @@ Publication
 <br>
 \[<a href="https://pubmed.ncbi.nlm.nih.gov/33162640/">Published</a>\]
 
+<a href="https://jscholarship.library.jhu.edu/handle/1774.2/62312">The Use of 3D-Printed Phantoms For Evaluating CT Image Quality</a>
+<br>
+ <b>Hui Shi</b>, 
+\[<a href="http://jhir.library.jhu.edu/handle/1774.2/62312">Master's Research Thesis</a>\]
 
+<a href="https://smartech.gatech.edu/handle/1853/58478/">The Use of Implanted Intramuscular FES system for Ameliorating Foot Drop During Locomotion</a>
+<br>
+ <b>Hui Shi</b>, 
+\[<a href="http://hdl.handle.net/1853/58478">Undergraduate Research Thesis</a>\]
 
