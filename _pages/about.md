@@ -8,29 +8,47 @@ redirect_from:
   - /about.html
 ---
 
+## About Me
 
-I am a biomedical engineer who specializes in computational medicine, experimental modeling, data science, CAD modeling, and process design and improvement. I received my Master of Science in Engineering in biomedical engineering from Johns Hopkins University and my Bachelor of Science in biomedical engineering from Georgia Tech. I currently serve as a software application engineer at Informetric involving in software testing and development. I previously served as a pharmaceutical engineer validating and verifying equipment and process design. During my Master's thesis, I developed a manufacturing and quantitative assessment pipeline to produce anthropomorphic phantoms that mimick features such as the trabecular bone textures, the vascular stenosis structures, and blood vessels when injected with contrast agents.
+Amalie Shi is a **software engineer specializing in healthcare informatics and automation systems**. Her work focuses on **modernizing healthcare imaging verification** through the integration of **Python-based automation frameworks**, **data pipelining**, and **human-centered design**.  
 
-Previous projects include the implantable device design improvement, kinesiology study of peripheral nerve injury on feline models, myocarditis effects on immune cell clustering in the cardiac tissues, and data analysis of a wearable ubiquitous sensing system that tracks the adherence of medication regimen.
+She holds a **Master’s degree in Biomedical Engineering** from **Johns Hopkins University** and a **Bachelor’s degree in Biomedical Engineering** from the **Georgia Institute of Technology**.  
 
-Publications
-===
+Amalie’s professional interests include **software architecture**, **data engineering**, and the **application of automation to improve compliance, interoperability, and efficiency** in clinical systems.  
 
-<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7643885/">Performance Assessment of Texture Reproduction in High-Resolution CT</a>
-<br>
- <b>Hui Shi</b>, Grace J Gang, Junyuan Li, Elena Liapi, Craig Abbey, J Webster Stayman
-<br>
-<i>PMID: 33162640 PMCID: PMC7643885 DOI: 10.1117/12.2550579 </i>
-<br>
-\[<a href="https://pubmed.ncbi.nlm.nih.gov/33162640/">Published</a>\]
+She is a certified **Project Management Professional (PMP)**, **Engineer in Training (EIT)**, **ISTQB Certified Test Automation Engineer (CTAL-TAE)**, and **ASQ Certified Six Sigma Yellow Belt (CSSYB)**.
 
-<a href="https://jscholarship.library.jhu.edu/handle/1774.2/62312">The Use of 3D-Printed Phantoms For Evaluating CT Image Quality</a>
-<br>
- <b>Hui Shi</b> 
-\[<a href="http://jhir.library.jhu.edu/handle/1774.2/62312">Master's Research Thesis</a>\]
+Amalie has met the qualifications to take the **Professional Engineering (PE) exam for the Chemical Engineering Discipline** in Maryland. In the United States, eligibility for the PE exam typically requires a degree from an accredited engineering program, passing the Fundamentals of Engineering (FE) exam, and gaining relevant work experience under a licensed Professional Engineer. She is actively preparing to become a licensed Professional Engineer.
 
-<a href="https://smartech.gatech.edu/handle/1853/58478/">The Use of Implanted Intramuscular FES system for Ameliorating Foot Drop During Locomotion</a>
-<br>
- <b>Hui Shi</b>
-\[<a href="http://hdl.handle.net/1853/58478">Undergraduate Research Thesis</a>\]
+---
 
+## Beyond Work
+
+Outside of her professional pursuits, Amalie enjoys a diverse range of activities that reflect her curiosity and love for learning. She is currently **learning French** and can often be found **running along the Thames river**, finding inspiration in the changing seasons and historic surroundings.
+
+Her creative outlets include **cooking**, **crocheting**, and **painting**, activities that provide a perfect counterbalance to her technical work. Amalie also has a deep appreciation for **music**, both as a listener and through her studies in **music theory**, which feeds her analytical mind while nurturing her artistic side.
+
+A passion for **research** extends beyond her professional life—she enjoys diving into various topics of interest, from historical events to contemporary issues. This love for discovery often takes her to **historical sites and cultural attractions**, where she immerses herself in learning about different cultures and their histories. **Theatre performances** are another favorite, offering both entertainment and cultural enrichment.
+
+These diverse interests keep her grounded, creative, and constantly learning, bringing fresh perspectives to both her personal and professional endeavors.
+
+---
+
+## Research Experience
+
+Amalie’s research background bridges engineering and medicine through advanced imaging, computation, and system design. Her previous work includes:
+
+- **Implantable Device Design Improvement** (animal model studies)
+- **Peripheral Nerve Injury Kinesiology** using feline models
+- **Myocarditis and Immune Cell Clustering** in cardiac tissues
+- **Wearable Sensing Systems** for monitoring medication adherence
+
+These projects reflect her passion for developing technologies that enhance clinical workflows, diagnostic accuracy, and patient safety.
+
+---
+
+## Contact
+
+For inquiries, collaborations, or professional opportunities, please reach out via [LinkedIn](https://www.linkedin.com/in/amalieshi) or [GitHub](https://github.com/amalieshi).
+
+---
