@@ -58,13 +58,19 @@ Research experience
 
 Work experience
 ======
-* January 2020 - February 2021: Software Applications Engineer
+* October 2022 - Present: Software Test Engineer
+  * [Adaptix](https://adaptix.com/) - Oxford, GB
+  * Duties included: 
+      * Building automation tools and scripts to test and improve the quality of medical imaging systems.
+      *	Documenting and presenting test reports to the interdisciplinary engineering team to resolve software bugs and hardware issues.
+      * Verifying and validating design requirements and test specifications to ensure the product follows the industry standards and best practices. 
+
+* January 2020 - August 2022: Software Applications Engineer
   * [Informetric System Inc](https://www.informetric.com/) - New Providence, NJ
   * Duties included: 
-      * Design, develop, and integrate scalable pharmaceutical manufacturing reporting software (C#) to adhere to FDA GxP compliance and improve process efficiency
-	  * Participate in many aspects of the software life cycle, including development, testing, and deployment
-	  * Create pipelines to aggregate customer SQL data, transform results into intermediate XML, and render to the user as HTML 
-	  * Set up testing environments, write new software release tests, and perform formal test procedures on new software 
+      * Designed, developed, and integrated scalable pharmaceutical manufacturing reporting software (InfoBatch and InfoLog) by creating pipelines to aggregate customer SQL data, transforming results into intermediate XML, and rendering to users as HTML to adhere to Good Manufacturing Practices (GMP) and improve process efficiency.
+      * Gathered user requirements to map existing or new manufacturing processes to the associated process automation and enterprise-level systems and configured/developed electronic batch records (EBRs) and developed qualification documentation.
+      * Implemented the development and validation of software updates and hotfixes to support feature requests/bug fixes by setting up testing environments, writing new software release tests, and performing formal test procedures. 
 
 * January 2020 - February 2021: Pharmaceutical Engineer
   * [Aphena Pharma Solutions](https://aphenapharma.com/) - Easton, MD
