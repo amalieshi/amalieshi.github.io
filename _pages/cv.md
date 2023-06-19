@@ -19,7 +19,7 @@ Certifications and Award
 ======
 * Engineer-In-Training (EIT), Chemical Engineering Discipline, Maryland State Board for Professional Engineers, August 2021
 * Certified Six Sigma Yellow Belt (CSSYB), American Society for Quality (ASQ) September 2020
-* Mobile Atlanta Scholarship, 2015 [BME student honored for work on wireless medical monitoring system](https://rh.gatech.edu/news/370611/upward-mobility)
+* Mobile Atlanta Scholarship, 2015
 
 
 Research experience
@@ -58,18 +58,18 @@ Research experience
 
 Work experience
 ======
-* October 2022 - Present: Software Test Engineer
-  * [Adaptix](https://adaptix.com/) - Oxford, GB
+* October 2022 - Present: Software Applications Engineer
+  * [Adaptix Imaging](https://adaptix.com/) - Oxford, United Kingdom
   * Duties included: 
       * Building automation tools and scripts to test and improve the quality of medical imaging systems.
-      *	Documenting and presenting test reports to the interdisciplinary engineering team to resolve software bugs and hardware issues.
+      * Documenting and presenting test reports to the interdisciplinary engineering team to resolve software bugs and hardware issues.
       * Verifying and validating design requirements and test specifications to ensure the product follows the industry standards and best practices. 
 
 * January 2020 - August 2022: Software Applications Engineer
   * [Informetric System Inc](https://www.informetric.com/) - New Providence, NJ
   * Duties included: 
       * Designed, developed, and integrated scalable pharmaceutical manufacturing reporting software (InfoBatch and InfoLog) by creating pipelines to aggregate customer SQL data, transforming results into intermediate XML, and rendering to users as HTML to adhere to Good Manufacturing Practices (GMP) and improve process efficiency.
-      * Gathered user requirements to map existing or new manufacturing processes to the associated process automation and enterprise-level systems and configured/developed electronic batch records (EBRs) and developed qualification documentation.
+      * Gathered user requirements to map existing or new manufacturing processes to the associated process automation and enterprise-level systems and configured/developed electronic batch records (EBRs) and developing qualification documentation.
       * Implemented the development and validation of software updates and hotfixes to support feature requests/bug fixes by setting up testing environments, writing new software release tests, and performing formal test procedures. 
 
 * January 2020 - February 2021: Pharmaceutical Engineer
