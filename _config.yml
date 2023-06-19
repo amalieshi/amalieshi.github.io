@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Amalie Shi"
   avatar           : "profile.png"
-  bio              : "a biomedical engineer specialized in medical imaging"
+  bio              : "a biomedical engineer specialized in diagnostic medical imaging"
   location         : "Oxford, GB"
   employer         :  Adaptix
   pubmed           : 
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "amalieshi/"
-  orcid            : "https://orcid.org/my-orcid?orcid=0009-0001-2931-1414"
+  orcid            : "https://orcid.org/0009-0001-2931-1414"
   pinterest        :
   soundcloud       :
   stackoverflow    : "https://stackoverflow.com/users/18029573/amalie-shi"

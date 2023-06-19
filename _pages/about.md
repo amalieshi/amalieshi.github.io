@@ -53,8 +53,6 @@ Academic Projects
  <b>Hui Shi</b> 
 \[<a href="https://github.com/amalieshi/Academic-Portfolio/blob/master/Miscellaneous/In%20vitro%20effects%20of%201%2C2%2C3%2C4%2C6-%20penta-O-galloyl-beta-D-glucose%20on%20NF-%CE%BAB%20activation.pdf">Poster</a>\]
 
-<a href="https://rh.gatech.edu/news/370611/upward-mobility">Atlanta Mobile Scholarship Award</a>
-
 <a href="https://github.com/amalieshi/Academic-Portfolio/blob/master/Miscellaneous/autophagy%20poster.pdf">Induction of Autophagy upon Starvation</a>
 
 <a href="https://github.com/amalieshi/Academic-Portfolio/blob/master/Miscellaneous/pioneerarticle.pdf">Pioneer Articles</a>
