@@ -5,6 +5,7 @@ date: 2025-03-24
 type: "Talk"
 excerpt: "A unique, readable, and maintainable test automation method for medical imaging UI software"
 venue: "Selenium Conference 2025"
+location: "Valencia, Spain"
 author: "Amalie Shi"
 permalink: /talks/automate_ui_software
 ---

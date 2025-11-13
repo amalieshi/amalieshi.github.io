@@ -7,6 +7,7 @@ excerpt: "An automated UI software testing framework for medical imaging applica
 venue: "RSLondon Southeast, Imperial College London"
 award: "Best Poster Award"
 author: "Amalie Shi"
+location: "London, UK"
 permalink: /talks/ui_software_testing_framework
 ---
 

@@ -1,22 +1,17 @@
 var addressPoints = [
   [
-    "Berkeley CA, USA",
-    37.8708393,
-    -122.2728638
+    "Automate the UI Software Using Python<br />Selenium Conference 2025; Valencia, Spain",
+    39.4697065,
+    -0.3763353
   ],
   [
-    "London, UK",
-    51.5073219,
-    -0.1276473
+    "Positive Feedback Control in Neural Systems<br />Society for Neuroscience; Washington DC, USA",
+    38.8950368,
+    -77.0365427
   ],
   [
-    "San Francisco, California",
-    37.7792808,
-    -122.4192362
-  ],
-  [
-    "Los Angeles, CA",
-    34.0543942,
-    -118.2439408
+    "UI Software Testing Framework<br />RSLondon Southeast, Imperial College London; London, UK",
+    51.5074456,
+    -0.1277653
   ]
 ];

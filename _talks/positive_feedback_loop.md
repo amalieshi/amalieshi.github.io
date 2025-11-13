@@ -6,6 +6,7 @@ type: "Poster"
 excerpt: "Functional electrical stimulation can activate weakened or paralyzed muscles during locomotion by using kinematic signals to control stimulation. Building on evidence that positive force feedback from Golgi tendon organs enhances load-bearing tasks, we engineered a feedback-controlled stimulation system to increase muscle force in cases of muscle weakness. In decerebrate cats, muscle force was recorded during stretch and used to trigger intramuscular electrical stimulation, amplifying force output beyond the stretch reflex. Adjustable thresholds and gains allowed us to explore system stability, revealing that stimulation remained stable across a wide parameter range, but excessive gain or low thresholds led to prolonged contractions. Clinically, electromyographic signals could provide feedback, with stimulation delivered via intramuscular or surface electrodes."
 author: "Amalie Shi"
 venue: "Society for Neuroscience"
+location: "Washington DC, USA"
 permalink: /talks/positive_feedback_loop
 ---
 
