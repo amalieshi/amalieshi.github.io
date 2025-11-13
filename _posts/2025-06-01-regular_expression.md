@@ -5,7 +5,6 @@ permalink: /year-archive/regular-expression
 excerpt: "Guide to extracting and validating test data from PDF reports using Python's regular expressions, PyPDF2, and jsonschema."
 date: 2025-06-01
 venue: "Technical Blog"
-paperurl: "https://amalieshi.github.io/year-archive/regular-expression"
 citation: "Amalie Shi. (2025). Using Regular Expressions to Parse PDF Test Data into JSON. Technical Blog."
 ---
 # 🔍 Using Regular Expressions to Parse PDF Test Data into JSON (with Data Validation)
