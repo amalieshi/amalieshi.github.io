@@ -8,7 +8,7 @@ venue: 'SPIE'
 paperurl: 'http://amalieshi.github.io/files/PerformanceAssessment.pdf'
 citation: 'Hui Shi, Grace J Gang, Junyuan Li, Eleni Liapi, Craig Abbey, J Webster Stayman
  (2020). &quot;Performance Assessment of Texture Reproduction in High-Resolution CT&quot; <i>SPIE</i>. 1(1).'
---
+---
 This paper is about anthropomorphic 3D-printing phantoms using three types of CT scanners.
 
 [Download paper here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7643885/)
