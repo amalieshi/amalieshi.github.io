@@ -1,12 +1,12 @@
 ---
 title: "Automate the UI Software Using Python"
-collection: portfolio
-type: "talk"
-excerpt: "A unique, readable, and maintainable test automation method for medical imaging UI software
+collection: talks
+type: "Talk"
+excerpt: "A unique, readable, and maintainable test automation method for medical imaging UI software"
 date: 2025-03-24
 venue: "Selenium Conference 2025"
 author: "Amalie Shi"
-permalink: /portfolio/automate-ui-software
+permalink: /talks/automate-ui-software
 ---
 
 ### [Automate the UI Software Using Python](https://zenodo.org/records/15118990)

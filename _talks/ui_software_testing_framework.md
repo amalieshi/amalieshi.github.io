@@ -1,13 +1,13 @@
 ---
 title: "UI Software Testing Framework"
-collection: portfolio
+collection: talks
 date: 2023-01-01
-type: "poster"
+type: "Poster"
 excerpt: "An automated UI software testing framework for medical imaging applications, presented at RSLondon"
 venue: "RSLondon Southeast, Imperial College London"
 award: "Best Poster Award"
 author: "Amalie Shi"
-permalink: /portfolio/ui-software-testing-framework
+permalink: /talks/ui_software_testing_framework
 ---
 
 ### [UI Software Testing Framework](https://zenodo.org/records/12605845)
