@@ -33,29 +33,6 @@ These projects reflect her passion for developing technologies that enhance clin
 
 ---
 
-## Publications
-
-### [Performance Assessment of Texture Reproduction in High-Resolution CT](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7643885/)
-**Hui Shi**, Grace J. Gang, Junyuan Li, Elena Liapi, Craig Abbey, J. Webster Stayman  
-*PMID: 33162640 | PMCID: PMC7643885 | DOI: 10.1117/12.2550579*  
-[View on PubMed](https://pubmed.ncbi.nlm.nih.gov/33162640/)
-
----
-
-### [The Use of 3D-Printed Phantoms for Evaluating CT Image Quality](https://jscholarship.library.jhu.edu/handle/1774.2/62312)
-**Hui Shi**  
-*Master’s Research Thesis, Johns Hopkins University*  
-[Read Thesis](http://jhir.library.jhu.edu/handle/1774.2/62312)
-
----
-
-### [The Use of Implanted Intramuscular FES System for Ameliorating Foot Drop During Locomotion](https://smartech.gatech.edu/handle/1853/58478)
-**Hui Shi**  
-*Undergraduate Research Thesis, Georgia Institute of Technology*  
-[Read Thesis](http://hdl.handle.net/1853/58478)
-
-
-
 ## Contact
 
 For inquiries, collaborations, or professional opportunities, please reach out via [LinkedIn](#) or [GitHub](https://github.com/amalieshi).
