@@ -51,7 +51,7 @@ redirect_from:
 *October 2022 – Present*  
 - Develop and maintain **automated test frameworks** for validating X-ray imaging software and hardware.  
 - Design **Python-based UI testing tools** to streamline verification workflows and ensure compliance with **ISO 13485** and **IEC 62304** standards.  
-- Collaborate with interdisciplinary teams to **analyze image reconstruction algorithms** and validate diagnostic accuracy.  
+- Collaborate with interdisciplinary teams to support software and hardware validation activities.
 - Conduct **system verification and validation** testing across embedded hardware and software subsystems.
 
 ---
@@ -61,7 +61,7 @@ redirect_from:
 - Designed and deployed **pharmaceutical manufacturing data pipelines** integrating SQL and XML for **GMP-compliant** electronic batch records (EBRs).  
 - Developed and validated software updates for process reporting tools (InfoBatch, InfoLog) using controlled testing environments.  
 - Automated **report generation and testing procedures**, improving reliability of manufacturing analytics.  
-- Collaborated with QA and validation engineers to ensure compliance with **FDA 21 CFR Part 11** and **Good Automated Manufacturing Practice (GAMP 5)**.
+- Collaborated with QA and validation engineers to ensure compliance with **FDA 21 CFR Part 11** and **ISPE Good Manufacturing Practice (GMP)**.
 
 ---
 
