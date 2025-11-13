@@ -35,6 +35,6 @@ These projects reflect her passion for developing technologies that enhance clin
 
 ## Contact
 
-For inquiries, collaborations, or professional opportunities, please reach out via [LinkedIn](#) or [GitHub](https://github.com/amalieshi).
+For inquiries, collaborations, or professional opportunities, please reach out via [LinkedIn](https://www.linkedin.com/in/amalieshi) or [GitHub](https://github.com/amalieshi).
 
 ---
