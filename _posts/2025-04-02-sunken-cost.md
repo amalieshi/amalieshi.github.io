@@ -4,8 +4,8 @@ collection: posts
 permalink: /year-archive/sunken-cost
 excerpt: "A personal reflection on the sunken cost fallacy and the emotional journey of leaving biomedical research."
 date: 2025-04-02
-venue: "Technical Blog"
-citation: "Amalie Shi. (2025). Sunken Cost and the Five Stages of Grief of an Ex-Biomedical Researcher. Technical Blog."
+venue: "Personal Reflection Blog"
+citation: "Amalie Shi. (2025). Sunken Cost and the Five Stages of Grief of an Ex-Biomedical Researcher. Personal Reflection Blog."
 ---
 
 # 🧠 Sunken Cost and the Five Stages of Grief of an Ex-Biomedical Researcher

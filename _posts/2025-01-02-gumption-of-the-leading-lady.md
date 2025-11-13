@@ -4,8 +4,8 @@ collection: posts
 permalink: /year-archive/gumption-of-the-leading-lady
 excerpt: "A reflection on the power of gumption, inspired by leading ladies in film and literature, and its impact on personal and professional growth."
 date: 2025-01-02
-venue: "Technical Blog"
-citation: "Amalie Shi. (2025). How the Gumption of the Leading Lady Can Be Transformative to Your Life and Career. Technical Blog."
+venue: "Personal Reflection Blog"
+citation: "Amalie Shi. (2025). How the Gumption of the Leading Lady Can Be Transformative to Your Life and Career. Personal Reflection Blog."
 ---
 
 # 🎬 How the Gumption of the Leading Lady Can Be Transformative to Your Life and Career

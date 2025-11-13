@@ -4,8 +4,8 @@ collection: posts
 permalink: /year-archive/medical-informatics-europe-conference-experience
 excerpt: "Reflections and key takeaways from attending the Medical Informatics Europe Conference, highlighting trends and innovations in health data and digital transformation."
 date: 2025-06-24
-venue: "Technical Blog"
-citation: "Amalie Shi. (2025). Medical Informatics Europe Conference Experience. Technical Blog."
+venue: "Personal Reflection Blog"
+citation: "Amalie Shi. (2025). Medical Informatics Europe Conference Experience. Personal Reflection Blog."
 ---
 
 # 🏥 Medical Informatics Europe Conference Experience

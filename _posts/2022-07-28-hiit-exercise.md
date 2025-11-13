@@ -4,8 +4,8 @@ collection: posts
 permalink: /year-archive/hiit-exercise
 excerpt: "A personal story of transformation and health improvement through High-Intensity Interval Training (HIIT)."
 date: 2022-07-28
-venue: "Technical Blog"
-citation: "Amalie Shi. (2022). My Life-Changing Transformation Through HIIT Exercise. Technical Blog."
+venue: "Personal Reflection Blog"
+citation: "Amalie Shi. (2022). My Life-Changing Transformation Through HIIT Exercise. Personal Reflection Blog."
 ---
 
 # 🏃‍♀️ My Life-Changing Transformation Through HIIT Exercise
