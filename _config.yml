@@ -184,7 +184,7 @@ collections:
 
 # Defaults
 defaults:
-  # _year-archive
+  # _posts
   - scope:
       path: ""
       type: posts
