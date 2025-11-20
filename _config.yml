@@ -82,7 +82,7 @@ author:
   avatar: "profile.png"
   bio: "Amalie Shi is a biomedical and software engineer specializing in healthcare automation and medical imaging verification. With degrees from Johns Hopkins University and Georgia Tech, she integrates Python-based frameworks to improve clinical software reliability. A certified PMP, EIT, ISTQB CTAL-TAE, and ASQ CSSYB, she advances innovation in digital healthcare systems."
   location: "Oxford, GB"
-  employer: Adaptix
+  employer:
   pubmed:
   googlescholar:
   email: "hshi16@alumni.jh.edu"
@@ -97,7 +97,7 @@ author:
   github: "amalieshi"
   google_plus:
   keybase:
-  instagram:
+  instagram: "amalieinoxford"
   impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm:
   linkedin: "amalieshi/"
