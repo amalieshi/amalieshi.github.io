@@ -5,7 +5,6 @@ permalink: /year-archive/cerealous-quantitative-analysis
 excerpt: "A data-driven exploration of breakfast cereals, uncovering nutritional trends and insights using Python."
 date: 2022-07-24
 venue: "Technical Blog"
-citation: "Amalie Shi. (2022). A Cereal-ous Quantitative Analysis on Breakfast Cereal. Technical Blog."
 ---
 
 # 🥣 A Cereal-ous Quantitative Analysis on Breakfast Cereal

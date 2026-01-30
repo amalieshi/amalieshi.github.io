@@ -5,7 +5,6 @@ permalink: /year-archive/bridging-gap
 excerpt: "Insights on integrating product and project management for better outcomes."
 date: 2025-05-31
 venue: "Technical Blog"
-citation: "Amalie Shi. (2025). Bridging the Gap: How to Integrate Product and Project Management for Maximum Impact. Technical Blog."
 ---
 
 # 🔗 Bridging the Gap: How to Integrate Product and Project Management for Maximum Impact

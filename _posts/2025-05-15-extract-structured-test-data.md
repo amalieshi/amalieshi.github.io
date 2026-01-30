@@ -5,7 +5,6 @@ permalink: /year-archive/extract-structured-test-data
 excerpt: "A practical guide to extracting structured test data from PDF reports using Python's regex and validating it with JSON Schema."
 date: 2025-05-15
 venue: "Technical Blog"
-citation: "Amalie Shi. (2025). Extract Structured Test Data from PDFs Using Python Regex and Validate with JSON Schema. Technical Blog."
 ---
 
 # 📄 Extract Structured Test Data from PDFs Using Python Regex and Validate with JSON Schema

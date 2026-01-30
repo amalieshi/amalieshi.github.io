@@ -6,7 +6,6 @@ excerpt: 'A unique, readable, and maintainable test automation method for medica
 date: 2025-03-01
 venue: 'Selenium Conference 2025'
 paperurl: 'https://zenodo.org/records/15118990'
-citation: 'Amalie Shi. (2025). "Automate the UI Software Using Python." Selenium Conference.'
 ---
 
 Verifying performance and safety is critical but has long been a bottleneck in the medical software release process. UI software testing—being the most integrated and complex component—has traditionally been performed manually.
@@ -19,5 +18,3 @@ The automation solution enhances **testing efficiency**, ensures **consistency i
 
 [Watch Presentation on YouTube](https://www.youtube.com/watch?v=_xQmx0BW0gk)
 
-Recommended citation:  
-Amalie Shi. (2025). "Automate the UI Software Using Python." Selenium Conference.

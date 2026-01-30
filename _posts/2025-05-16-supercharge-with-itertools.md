@@ -5,7 +5,6 @@ permalink: /year-archive/supercharge-with-itertools
 excerpt: "Learn how to use Python's itertools to create powerful, flexible data-driven tests for automation and validation."
 date: 2025-05-16
 venue: "Technical Blog"
-citation: "Amalie Shi. (2025). Supercharge Your Data-Driven Tests with Python's itertools. Technical Blog."
 ---
 
 # ⚡ Supercharge Your Data-Driven Tests with Python's itertools

@@ -6,11 +6,7 @@ excerpt: 'Assessment of computed tomography (CT) images can be complex due to a 
 date: 2020-03-16
 venue: 'SPIE'
 paperurl: 'http://amalieshi.github.io/files/PerformanceAssessment.pdf'
-citation: 'Hui Shi, Grace J Gang, Junyuan Li, Eleni Liapi, Craig Abbey, J Webster Stayman
- (2020). &quot;Performance Assessment of Texture Reproduction in High-Resolution CT&quot; <i>SPIE</i>. 1(1).'
 ---
 This paper is about anthropomorphic 3D-printing phantoms using three types of CT scanners.
 
 [Download paper here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7643885/)
-
-Recommended citation: Shi, H., Gang, G. J., Li, J., Liapi, E., Abbey, C., & Stayman, J. W. (2020). Performance Assessment of Texture Reproduction in High-Resolution CT. Proceedings of SPIE--the International Society for Optical Engineering, 11316, 113160R. https://doi.org/10.1117/12.2550579
