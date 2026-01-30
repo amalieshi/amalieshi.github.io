@@ -71,7 +71,7 @@ redirect_from:
 -	Authored and executed 30\+ validation protocols and reports \(IQ/OQ/PQ\), commissioning 8\+ automated systems — including blending tanks, labeling machines, water purification units, and serialization equipment — under FDA cGMP and engineering validation standards.  
 -	Designed and optimized 5\+ manufacturing and lab-scale processes using engineering design principles and data-driven analysis, improving process efficiency and product consistency.  
 -	Implemented CAPA and preventive maintenance programs, driving equipment reliability, reduced downtime, and cost efficiency.  
--	Collaborated with R\&D, QA, and manufacturing teams to implement engineering process improvements, ensuring compliance with regulatory and technical standards.
+-	Collaborated with R&D, QA, and manufacturing teams to implement engineering process improvements, ensuring compliance with regulatory and technical standards.
 
 ---
 
