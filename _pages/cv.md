@@ -21,10 +21,11 @@ redirect_from:
 
 # Certifications and Awards
 
+* **Project Management Professional (PMP)** — Project Management Institute (2025)  
+* **ISTQB Certified Test Automation Engineer (CTAL-TAE)** — International Software Testing Qualifications Board (2025) 
+* **ISTQB Certified Tester Foundation Level v4.0 (CTFL)** — International Software Testing Qualifications Board (2024)  
 * **Engineer-In-Training (EIT)**, Chemical Engineering Discipline — Maryland State Board for Professional Engineers (2021)  
-* **Certified Six Sigma Yellow Belt (CSSYB)** — American Society for Quality (ASQ, 2020)  
-* **Project Management Professional (PMP)** — Project Management Institute (2023)  
-* **ISTQB Certified Test Automation Engineer (CTAL-TAE)** — International Software Testing Qualifications Board (2024)  
+* **Certified Six Sigma Yellow Belt (CSSYB)** — American Society for Quality (ASQ, 2020)
 * **Mobile Atlanta Scholarship** — Georgia Institute of Technology (2015)
 
 ---
@@ -47,7 +48,7 @@ redirect_from:
 
 # Work Experience
 
-### **Software Applications Engineer**, Adaptix Imaging — Oxford, United Kingdom  
+### **Software Test Engineer**, Adaptix Imaging — Oxford, United Kingdom  
 *October 2022 – Present*  
 - Develop and maintain **automated test frameworks** for validating X-ray imaging software and hardware.  
 - Design **Python-based UI testing tools** to streamline verification workflows and ensure compliance with **ISO 13485** and **IEC 62304** standards.  
@@ -58,19 +59,19 @@ redirect_from:
 
 ### **Software Applications Engineer**, Informetric Systems Inc — New Providence, NJ  
 *January 2020 – August 2022*  
-- Designed and deployed **pharmaceutical manufacturing data pipelines** integrating SQL and XML for **GMP-compliant** electronic batch records (EBRs).  
-- Developed and validated software updates for process reporting tools (InfoBatch, InfoLog) using controlled testing environments.  
-- Automated **report generation and testing procedures**, improving reliability of manufacturing analytics.  
-- Collaborated with QA and validation engineers to ensure compliance with **FDA 21 CFR Part 11** and **ISPE Good Manufacturing Practice (GMP)**.
+- Gathered, analyzed, and mapped user and process requirements into configurable automation logic for InfoBatch manufacturing systems, driving digital transformation and process optimization for pharmaceutical clients.  
+- Developed, tested, and validated 5 software updates and hotfixes for InfoBatch and managed the software release and product launch of InfoLog, including setup of VM-based test environments, creation of installation packages using Advanced Installer, and design of new automated test procedures.  
+- Provided high-level technical support to resolve complex issues (e.g., HTML report formatting, delayed data uploads, printer integration) — ensuring system uptime, customer satisfaction, and operational continuity.  
+- Collaborated with software developers, QA, and client engineering teams to align requirements and deliver robust, production-ready solutions.  
 
 ---
 
 ### **Pharmaceutical Engineer**, Aphena Pharma Solutions — Easton, MD  
 *January 2020 – February 2021*  
-- Authored and executed **IQ/OQ/PQ validation protocols** for manufacturing systems including blending, filling, and labeling machines.  
-- Developed **preventive maintenance schedules**, trained operators, and led **CAPA** initiatives to ensure **cGMP** compliance.  
-- Designed and fabricated custom fixtures and tooling to support **process optimization** and **technology transfer**.  
-- Performed validation of **automated process control systems** and data integrity verification.
+-	Authored and executed 30\+ validation protocols and reports \(IQ/OQ/PQ\), commissioning 8\+ automated systems — including blending tanks, labeling machines, water purification units, and serialization equipment — under FDA cGMP and engineering validation standards.  
+-	Designed and optimized 5\+ manufacturing and lab-scale processes using engineering design principles and data-driven analysis, improving process efficiency and product consistency.  
+-	Implemented CAPA and preventive maintenance programs, driving equipment reliability, reduced downtime, and cost efficiency.  
+-	Collaborated with R\&D, QA, and manufacturing teams to implement engineering process improvements, ensuring compliance with regulatory and technical standards.
 
 ---
 

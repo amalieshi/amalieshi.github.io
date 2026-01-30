@@ -18,6 +18,9 @@ Amalie’s professional interests include **software architecture**, **data engi
 
 She is a certified **Project Management Professional (PMP)**, **Engineer in Training (EIT)**, **ISTQB Certified Test Automation Engineer (CTAL-TAE)**, and **ASQ Certified Six Sigma Yellow Belt (CSSYB)**.
 
+Amalie has met the qualifications to take the **Professional Engineering (PE) exam for the Chemical Engineering Discipline** in Maryland. In the United States, eligibility for the PE exam typically requires a degree from an accredited engineering program, passing the Fundamentals of Engineering (FE) exam, and gaining relevant work experience under a licensed Professional Engineer. She is actively preparing to become a licensed Professional Engineer.
+
+
 ---
 
 ## Research Experience
