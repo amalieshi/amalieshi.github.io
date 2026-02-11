@@ -20,6 +20,17 @@ She is a certified **Project Management Professional (PMP)**, **Engineer in Trai
 
 Amalie has met the qualifications to take the **Professional Engineering (PE) exam for the Chemical Engineering Discipline** in Maryland. In the United States, eligibility for the PE exam typically requires a degree from an accredited engineering program, passing the Fundamentals of Engineering (FE) exam, and gaining relevant work experience under a licensed Professional Engineer. She is actively preparing to become a licensed Professional Engineer.
 
+---
+
+## Beyond Work
+
+Outside of her professional pursuits, Amalie enjoys a diverse range of activities that reflect her curiosity and love for learning. She is currently **learning French** and can often be found **running along the Thames river**, finding inspiration in the changing seasons and historic surroundings.
+
+Her creative outlets include **cooking**, **crocheting**, and **painting**, activities that provide a perfect counterbalance to her technical work. Amalie also has a deep appreciation for **music**, both as a listener and through her studies in **music theory**, which feeds her analytical mind while nurturing her artistic side.
+
+A passion for **research** extends beyond her professional life—she enjoys diving into various topics of interest, from historical events to contemporary issues. This love for discovery often takes her to **historical sites and cultural attractions**, where she immerses herself in learning about different cultures and their histories. **Theatre performances** are another favorite, offering both entertainment and cultural enrichment.
+
+These diverse interests keep her grounded, creative, and constantly learning, bringing fresh perspectives to both her personal and professional endeavors.
 
 ---
 
