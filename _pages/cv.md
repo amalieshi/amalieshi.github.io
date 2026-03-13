@@ -22,6 +22,8 @@ redirect_from:
 # Certifications and Awards
 
 * **Project Management Professional (PMP)** — Project Management Institute (2025)  
+* **BCS Faculty of Health and Care Bursary** — British Computer Society (2025)  
+  *Travel funding to attend Medical Informatics Europe (MIE) 2025 conference in Glasgow, Scotland.*
 * **ISTQB Certified Test Automation Engineer (CTAL-TAE)** — International Software Testing Qualifications Board (2025) 
 * **ISTQB Certified Tester Foundation Level v4.0 (CTFL)** — International Software Testing Qualifications Board (2024)  
 * **Engineer-In-Training (EIT)**, Chemical Engineering Discipline — Maryland State Board for Professional Engineers (2021)  
