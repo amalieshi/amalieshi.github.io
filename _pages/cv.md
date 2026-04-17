@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+---
+
+## 📄 [Download Full Resume (Word Document)](https://raw.githubusercontent.com/amalieshi/amalieshi/main/amalieshi_full_resume.docx)
+
+---
+
 # Education
 
 * **M.S.E. in Biomedical Engineering**, Johns Hopkins University, 2019  

@@ -1,28 +1,28 @@
 # main links links
 main:
-   - title: "Home"
-     url: "/"
+  - title: "Home"
+    url: "/"
 
-   - title: "Publications"
-     url: /publications/
+  - title: "Publications"
+    url: /publications/
 
-   - title: "Talks"
-     url: /talks/
+  - title: "Talks"
+    url: /talks/
 
-   - title: "Teaching"
-     url: /teaching/
-    
-   - title: "Portfolio"
-     url: /portfolio/
+  - title: "Teaching"
+    url: /teaching/
 
-   - title: "Projects"
-     url: https://amalieshi.github.io/amalie_projects/
-        
-   - title: "Blog Posts"
-     url: /year-archive/
-    
-   - title: "CV"
-     url: /cv/
-    
+  - title: "Portfolio"
+    url: /portfolio/
+
+  - title: "Projects"
+    url: https://amalieshi.github.io/amalie_projects/
+
+  - title: "Blog Posts"
+    url: /year-archive/
+
+  - title: "CV"
+    url: /cv/
+
 #   - title: "Guide"
 #     url: /markdown/
