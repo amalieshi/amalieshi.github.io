@@ -11,7 +11,9 @@ redirect_from:
 
 ---
 
-## 📄 [Download Full Resume (Word Document)](https://raw.githubusercontent.com/amalieshi/amalieshi/main/amalieshi_full_resume.docx)
+## Resume
+- [Download the Resume (Word Document)](https://raw.githubusercontent.com/amalieshi/amalieshi/main/amalieshi_resume.docx)
+- [Download Full CV (Word Document)](https://raw.githubusercontent.com/amalieshi/amalieshi/main/amalieshi_full_resume.docx)
 
 ---
 
