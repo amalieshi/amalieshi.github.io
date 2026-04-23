@@ -19,7 +19,7 @@ redirect_from:
 
 # Education
 
-* **[M.S.E. in Biomedical Engineering](https://raw.githubusercontent.com/amalieshi/amalieshi/main/certifications/Qualifications_Amalie%20Shi_Masters%20of%20Engineering.pdf)**, Johns Hopkins University, 2019  
+* **[M.S.E. in Biomedical Engineering](https://raw.githubusercontent.com/amalieshi/amalieshi/main/certifications/Qualifications_Amalie_Shi_Masters_of_Engineering.pdf)**, Johns Hopkins University, 2019  
   *Focus: Diagnostic medical imaging, computational modeling, and systems bioengineering.*
 
 * **B.S. in Biomedical Engineering**, Highest Honor, Georgia Institute of Technology, 2016  
