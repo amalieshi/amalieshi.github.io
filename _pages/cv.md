@@ -19,7 +19,7 @@ redirect_from:
 
 # Education
 
-* **M.S.E. in Biomedical Engineering**, Johns Hopkins University, 2019  
+* **[M.S.E. in Biomedical Engineering](https://raw.githubusercontent.com/amalieshi/amalieshi/main/certifications/Qualifications_Amalie%20Shi_Masters%20of%20Engineering.pdf)**, Johns Hopkins University, 2019  
   *Focus: Diagnostic medical imaging, computational modeling, and systems bioengineering.*
 
 * **B.S. in Biomedical Engineering**, Highest Honor, Georgia Institute of Technology, 2016  
@@ -29,13 +29,13 @@ redirect_from:
 
 # Certifications and Awards
 
-* **Project Management Professional (PMP)** — Project Management Institute (2025)  
+* **[Project Management Professional (PMP)](https://raw.githubusercontent.com/amalieshi/amalieshi/main/certifications/Qualifications_Amalie_Shi_PMP_Certification.pdf)** — Project Management Institute (2025)
 * **BCS Faculty of Health and Care Bursary** — British Computer Society (2025)  
   *Travel funding to attend Medical Informatics Europe (MIE) 2025 conference in Glasgow, Scotland.*
-* **ISTQB Certified Test Automation Engineer (CTAL-TAE)** — International Software Testing Qualifications Board (2025) 
-* **ISTQB Certified Tester Foundation Level v4.0 (CTFL)** — International Software Testing Qualifications Board (2024)  
-* **Engineer-In-Training (EIT)**, Chemical Engineering Discipline — Maryland State Board for Professional Engineers (2021)  
-* **Certified Six Sigma Yellow Belt (CSSYB)** — American Society for Quality (ASQ, 2020)
+* **[ISTQB Certified Test Automation Engineer (CTAL-TAE)](https://raw.githubusercontent.com/amalieshi/amalieshi/main/certifications/Qualifications_Amalie_Shi_ISTQB_Certified_Tester_Advanced_Level_Test_Automation_Engineer_v2.0.pdf)** — International Software Testing Qualifications Board (2025)
+* **[ISTQB Certified Tester Foundation Level v4.0 (CTFL)](https://raw.githubusercontent.com/amalieshi/amalieshi/main/certifications/Qualifications_Amalie_Shi_ISTQB_Certified_Tester_Foundation_Level_v4.0.pdf)** — International Software Testing Qualifications Board (2024)
+* **[Engineer-In-Training (EIT)](https://raw.githubusercontent.com/amalieshi/amalieshi/main/certifications/Qualifications_Amalie_Shi_Engineer_in_training.pdf)**, Chemical Engineering Discipline — Maryland State Board for Professional Engineers (2021)
+* **[Certified Six Sigma Yellow Belt (CSSYB)](https://raw.githubusercontent.com/amalieshi/amalieshi/main/certifications/Qualifications_Amalie_Shi_Six_Sigma.pdf)** — American Society for Quality (ASQ, 2020)
 * **Mobile Atlanta Scholarship** — Georgia Institute of Technology (2015)
 
 ---
