@@ -11,6 +11,7 @@ redirect_from:
 
 ---
 
+
 ## Resume
 - [Download the Resume (Word Document)](https://raw.githubusercontent.com/amalieshi/amalieshi/main/amalieshi_resume.docx)
 - [Download Full CV (Word Document)](https://raw.githubusercontent.com/amalieshi/amalieshi/main/amalieshi_full_resume.docx)
@@ -19,24 +20,25 @@ redirect_from:
 
 # Education
 
-* **[M.S.E. in Biomedical Engineering](https://raw.githubusercontent.com/amalieshi/amalieshi/main/certifications/Qualifications_Amalie_Shi_Masters_of_Engineering.pdf)**, Johns Hopkins University, 2019  
+
+* **[M.S.E. in Biomedical Engineering](https://github.com/amalieshi/amalieshi/blob/main/certifications/Qualifications_Amalie_Shi_Masters_of_Engineering.pdf)**, Johns Hopkins University, 2019  
   *Focus: Diagnostic medical imaging, computational modeling, and systems bioengineering.*
 
-* **B.S. in Biomedical Engineering**, Highest Honor, Georgia Institute of Technology, 2016  
+* **[B.S. in Biomedical Engineering](https://github.com/amalieshi/amalieshi/blob/main/certifications/Qualifications_Amalie_Shi_Georgia_Tech_Diploma.pdf)**, Highest Honor, Georgia Institute of Technology, 2016  
   *Focus: Biomechanics, biotransport, and physiological systems modeling.*
 
 ---
 
 # Certifications and Awards
 
-* **[Project Management Professional (PMP)](https://raw.githubusercontent.com/amalieshi/amalieshi/main/certifications/Qualifications_Amalie_Shi_PMP_Certification.pdf)** — Project Management Institute (2025)
-* **BCS Faculty of Health and Care Bursary** — British Computer Society (2025)  
+* **[Project Management Professional (PMP)](https://github.com/amalieshi/amalieshi/blob/main/certifications/Qualifications_Amalie_Shi_PMP_Certification.pdf)** — Project Management Institute (2025)
+* **[BCS Faculty of Health and Care Bursary](https://github.com/amalieshi/amalieshi/blob/main/media_coverage_and_award_letters/FHC%20Bursary%20award%202025%20-%20Hui%20%E2%80%9CAmalie%E2%80%9D%20Shi_redacted.pdf)** — British Computer Society (2025)  
   *Travel funding to attend Medical Informatics Europe (MIE) 2025 conference in Glasgow, Scotland.*
-* **[ISTQB Certified Test Automation Engineer (CTAL-TAE)](https://raw.githubusercontent.com/amalieshi/amalieshi/main/certifications/Qualifications_Amalie_Shi_ISTQB_Certified_Tester_Advanced_Level_Test_Automation_Engineer_v2.0.pdf)** — International Software Testing Qualifications Board (2025)
-* **[ISTQB Certified Tester Foundation Level v4.0 (CTFL)](https://raw.githubusercontent.com/amalieshi/amalieshi/main/certifications/Qualifications_Amalie_Shi_ISTQB_Certified_Tester_Foundation_Level_v4.0.pdf)** — International Software Testing Qualifications Board (2024)
-* **[Engineer-In-Training (EIT)](https://raw.githubusercontent.com/amalieshi/amalieshi/main/certifications/Qualifications_Amalie_Shi_Engineer_in_training.pdf)**, Chemical Engineering Discipline — Maryland State Board for Professional Engineers (2021)
-* **[Certified Six Sigma Yellow Belt (CSSYB)](https://raw.githubusercontent.com/amalieshi/amalieshi/main/certifications/Qualifications_Amalie_Shi_Six_Sigma.pdf)** — American Society for Quality (ASQ, 2020)
-* **Mobile Atlanta Scholarship** — Georgia Institute of Technology (2015)
+* **[ISTQB Certified Test Automation Engineer (CTAL-TAE)](https://github.com/amalieshi/amalieshi/blob/main/certifications/Qualifications_Amalie_Shi_ISTQB_Certified_Tester_Advanced_Level_Test_Automation_Engineer_v2.0.pdf)** — International Software Testing Qualifications Board (2025)
+* **[ISTQB Certified Tester Foundation Level v4.0 (CTFL)](https://github.com/amalieshi/amalieshi/blob/main/certifications/Qualifications_Amalie_Shi_ISTQB_Certified_Tester_Foundation_Level_v4.0.pdf)** — International Software Testing Qualifications Board (2024)
+* **[Engineer-In-Training (EIT)](https://github.com/amalieshi/amalieshi/blob/main/certifications/Qualifications_Amalie_Shi_Engineer_in_training.pdf)**, Chemical Engineering Discipline — Maryland State Board for Professional Engineers (2021)
+* **[Certified Six Sigma Yellow Belt (CSSYB)](https://github.com/amalieshi/amalieshi/blob/main/certifications/Qualifications_Amalie_Shi_Six_Sigma.pdf)** — American Society for Quality (ASQ, 2020)
+* **[Mobile Atlanta Scholarship](https://github.com/amalieshi/amalieshi/blob/main/media_coverage_and_award_letters/Upward%20Mobility_Coulter.pdf)** — Georgia Institute of Technology (2015)
 
 ---
 
