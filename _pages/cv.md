@@ -21,24 +21,24 @@ redirect_from:
 # Education
 
 
-* **[M.S.E. in Biomedical Engineering](https://github.com/amalieshi/amalieshi/blob/main/certifications/Qualifications_Amalie_Shi_Masters_of_Engineering.pdf)**, Johns Hopkins University, 2019  
+* **<a href="https://github.com/amalieshi/amalieshi/blob/main/certifications/Qualifications_Amalie_Shi_Masters_of_Engineering.pdf" target="_blank">M.S.E. in Biomedical Engineering</a>**, Johns Hopkins University, 2019  
   *Focus: Diagnostic medical imaging, computational modeling, and systems bioengineering.*
 
-* **[B.S. in Biomedical Engineering](https://github.com/amalieshi/amalieshi/blob/main/certifications/Qualifications_Amalie_Shi_Georgia_Tech_Diploma.pdf)**, Highest Honor, Georgia Institute of Technology, 2016  
+* **<a href="https://github.com/amalieshi/amalieshi/blob/main/certifications/Qualifications_Amalie_Shi_Georgia_Tech_Diploma.pdf" target="_blank">B.S. in Biomedical Engineering</a>**, Highest Honor, Georgia Institute of Technology, 2016  
   *Focus: Biomechanics, biotransport, and physiological systems modeling.*
 
 ---
 
 # Certifications and Awards
 
-* **[Project Management Professional (PMP)](https://github.com/amalieshi/amalieshi/blob/main/certifications/Qualifications_Amalie_Shi_PMP_Certification.pdf)** — Project Management Institute (2025)
-* **[BCS Faculty of Health and Care Bursary](https://github.com/amalieshi/amalieshi/blob/main/media_coverage_and_award_letters/FHC%20Bursary%20award%202025%20-%20Hui%20%E2%80%9CAmalie%E2%80%9D%20Shi_redacted.pdf)** — British Computer Society (2025)  
+* **<a href="https://github.com/amalieshi/amalieshi/blob/main/certifications/Qualifications_Amalie_Shi_PMP_Certification.pdf" target="_blank">Project Management Professional (PMP)</a>** — Project Management Institute (2025)
+* **<a href="https://github.com/amalieshi/amalieshi/blob/main/media_coverage_and_award_letters/FHC%20Bursary%20award%202025%20-%20Hui%20%E2%80%9CAmalie%E2%80%9D%20Shi_redacted.pdf" target="_blank">BCS Faculty of Health and Care Bursary</a>** — British Computer Society (2025)  
   *Travel funding to attend Medical Informatics Europe (MIE) 2025 conference in Glasgow, Scotland.*
-* **[ISTQB Certified Test Automation Engineer (CTAL-TAE)](https://github.com/amalieshi/amalieshi/blob/main/certifications/Qualifications_Amalie_Shi_ISTQB_Certified_Tester_Advanced_Level_Test_Automation_Engineer_v2.0.pdf)** — International Software Testing Qualifications Board (2025)
-* **[ISTQB Certified Tester Foundation Level v4.0 (CTFL)](https://github.com/amalieshi/amalieshi/blob/main/certifications/Qualifications_Amalie_Shi_ISTQB_Certified_Tester_Foundation_Level_v4.0.pdf)** — International Software Testing Qualifications Board (2024)
-* **[Engineer-In-Training (EIT)](https://github.com/amalieshi/amalieshi/blob/main/certifications/Qualifications_Amalie_Shi_Engineer_in_training.pdf)**, Chemical Engineering Discipline — Maryland State Board for Professional Engineers (2021)
-* **[Certified Six Sigma Yellow Belt (CSSYB)](https://github.com/amalieshi/amalieshi/blob/main/certifications/Qualifications_Amalie_Shi_Six_Sigma.pdf)** — American Society for Quality (ASQ, 2020)
-* **[Mobile Atlanta Scholarship](https://github.com/amalieshi/amalieshi/blob/main/media_coverage_and_award_letters/Upward%20Mobility_Coulter.pdf)** — Georgia Institute of Technology (2015)
+* **<a href="https://github.com/amalieshi/amalieshi/blob/main/certifications/Qualifications_Amalie_Shi_ISTQB_Certified_Tester_Advanced_Level_Test_Automation_Engineer_v2.0.pdf" target="_blank">ISTQB Certified Test Automation Engineer (CTAL-TAE)</a>** — International Software Testing Qualifications Board (2025)
+* **<a href="https://github.com/amalieshi/amalieshi/blob/main/certifications/Qualifications_Amalie_Shi_ISTQB_Certified_Tester_Foundation_Level_v4.0.pdf" target="_blank">ISTQB Certified Tester Foundation Level v4.0 (CTFL)</a>** — International Software Testing Qualifications Board (2024)
+* **<a href="https://github.com/amalieshi/amalieshi/blob/main/certifications/Qualifications_Amalie_Shi_Engineer_in_training.pdf" target="_blank">Engineer-In-Training (EIT)</a>**, Chemical Engineering Discipline — Maryland State Board for Professional Engineers (2021)
+* **<a href="https://github.com/amalieshi/amalieshi/blob/main/certifications/Qualifications_Amalie_Shi_Six_Sigma.pdf" target="_blank">Certified Six Sigma Yellow Belt (CSSYB)</a>** — American Society for Quality (ASQ, 2020)
+* **<a href="https://github.com/amalieshi/amalieshi/blob/main/media_coverage_and_award_letters/Upward%20Mobility_Coulter.pdf" target="_blank">Mobile Atlanta Scholarship</a>** — Georgia Institute of Technology (2015)
 
 ---
 
