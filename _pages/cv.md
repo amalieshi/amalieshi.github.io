@@ -12,9 +12,12 @@ redirect_from:
 ---
 
 
+
 ## Resume
-- [Download the Resume (Word Document)](https://raw.githubusercontent.com/amalieshi/amalieshi/main/amalieshi_resume.docx)
-- [Download Full CV (Word Document)](https://raw.githubusercontent.com/amalieshi/amalieshi/main/amalieshi_full_resume.docx)
+- [View One-page Resume](https://github.com/amalieshi/amalieshi/blob/main/Resume/amalieshi_resume.pdf) |
+  <a href="https://raw.githubusercontent.com/amalieshi/amalieshi/main/Resume/amalieshi_resume.pdf" target="_blank" rel="noopener">Download</a>
+- [View Full CV](https://github.com/amalieshi/amalieshi/blob/main/Resume/amalieshi_full_resume.pdf) |
+  <a href="https://raw.githubusercontent.com/amalieshi/amalieshi/main/Resume/amalieshi_full_resume.pdf" target="_blank" rel="noopener">Download</a>
 
 ---
 
