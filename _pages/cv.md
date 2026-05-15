@@ -127,42 +127,6 @@ redirect_from:
 
 ---
 
-# Coursework
-
-## Mechanical Modeling and Design of Biological Systems
-- EN.580.642 Tissue Engineering: design of biological tissue substitutes and applications of stem cells.  
-- BMED 3310 Biotransport: fundamentals of momentum, heat, and mass transfer in biological systems.  
-- BMED 3400 Introduction to Biomechanics: deformable bodies, kinetics, dynamics, and statics.  
-- BMED 4758 Biosolid Mechanics: mechanical modeling of biological tissues.  
-- BMED 2210 Conservation Principles in BME: systems thinking and model-based reasoning.  
-- PHYS 2211/2212 Intro to Physics I & II: mechanics, electromagnetism, and modern physics.  
-- Calculus I–III, Differential Equations, Linear Algebra.  
-- ECE 3710 + 3741 Circuit Design and Lab.
-
-## Chemistry
-- CHEM 3511 A Survey of Biochemistry.  
-- CHEM 2380 Synthesis I Laboratory.  
-- CHEM 2311/2312 Organic Chemistry I & II.  
-- MSE 2001 Principles and Applications of Engineering Materials.  
-- CHEM 1211/1212 Inorganic Chemistry I & II.
-
-## Biomedical Engineering Design and Problem Solving
-- BMED 2310 Introduction to Biomedical Engineering Design.  
-- BMED 4602 Capstone Design: Developed a wearable system to enhance surgeon comfort; led project planning, regulatory pathway analysis, and prototype validation.  
-- BMED 1300 Problems in Biomedical Engineering.
-
-## Physiology
-- BMED 3600 Physiology of Cell and Molecular Systems.  
-- BMED 3100 System Physiology.  
-- EN.580.418 Principles of Pulmonary Physiology.
-
-## Statistics, Computational Modeling, and Applications
-- BMED 2400 Introduction to Bioengineering Statistics.  
-- BMED 3520 Biomedical Systems and Modeling.  
-- EN.580.439 Models of the Neuron.  
-- EN.580.429 Systems Bioengineering III.  
-- EN.580.430 Systems Pharmacology and Personalized Medicine.  
-- EN.580.428 Systems Bioengineering I (Data Science & Computational Medicine).
 
 ---
 
