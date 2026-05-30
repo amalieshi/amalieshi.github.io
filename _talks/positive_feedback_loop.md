@@ -17,5 +17,5 @@ Presented at the **Society for Neuroscience (SfN)** annual meeting.
 
 This work explores how artificial positive feedback loops can be utilized to modulate and control neural activity. By implementing feedback mechanisms, we demonstrate the potential for influencing neural system dynamics, which may have implications for understanding brain function and developing therapeutic interventions.
 
-- [View Abstract](https://github.com/amalieshi/Academic-Portfolio/blob/master/Miscellaneous/huishi_SFN17_Abstract.pdf)
+- [View Abstract](https://www.abstractsonline.com/pp8/index.html#!/4376/presentation/10884)
 - [View Poster](https://github.com/amalieshi/Academic-Portfolio/blob/master/Miscellaneous/Utilizing%20an%20Artificial%20Positive%20Feedback%20Loop%20to%20Control.pdf)
