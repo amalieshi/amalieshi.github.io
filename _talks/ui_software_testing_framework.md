@@ -20,4 +20,5 @@ The framework was presented at **RSLondon Southeast**, held at **Imperial Colleg
 
 This solution leverages Python-based automation to emulate user interactions, validate test data, and generate automated reports, improving efficiency and reliability in medical software testing.
 
-[View on Zenodo](https://zenodo.org/records/12605845)
+[View the Abstract](https://rslondon.ac.uk/rslondonsoutheast2024/abstracts/#p2)
+[View the Poster on Zenodo](https://zenodo.org/records/12605845)
