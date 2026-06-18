@@ -4,10 +4,10 @@ collection: talks
 date: 2023-01-01
 type: "Poster"
 excerpt: "An automated UI software testing framework for medical imaging applications, presented at RSLondon"
-venue: "RSLondon Southeast, Imperial College London"
+venue: "RSLondon Southeast"
 award: "Best Poster Award"
 author: "Amalie Shi"
-location: "London, UK"
+location: "Imperial College London, London, UK"
 permalink: /talks/ui_software_testing_framework
 ---
 
