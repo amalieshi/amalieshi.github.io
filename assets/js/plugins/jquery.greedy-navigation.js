@@ -19,11 +19,19 @@ function updateNav() {
   // The visible list is overflowing the nav
   if($vlinks.width() > availableSpace) {
 
+    // Items marked nav-pinned always stay visible
+    var $collapsible = $vlinks.children(':not(.nav-pinned)');
+
+    // Nothing left that can be collapsed, so stop to avoid looping forever
+    if($collapsible.length === 0) {
+      return;
+    }
+
     // Record the width of the list
     breaks.push($vlinks.width());
 
     // Move item to the hidden list
-    $vlinks.children().last().prependTo($hlinks);
+    $collapsible.last().prependTo($hlinks);
 
     // Show the dropdown btn
     if($btn.hasClass('hidden')) {
