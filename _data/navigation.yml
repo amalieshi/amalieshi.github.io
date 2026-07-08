@@ -1,22 +1,16 @@
 # main links links
 main:
-  - title: "Home"
-    url: "/"
-
   - title: "Publications"
     url: /publications/
 
   - title: "Talks"
     url: /talks/
 
-  - title: "Teaching and Coursework"
-    url: /teaching/
+  - title: "Open Source Projects"
+    url: https://amalieshi.github.io/amalie_projects/
 
   - title: "Research Portfolio"
     url: /portfolio/
-
-  - title: "Open Source Projects"
-    url: https://amalieshi.github.io/amalie_projects/
 
   - title: "Blog Posts"
     url: /year-archive/
@@ -24,5 +18,7 @@ main:
   - title: "CV"
     url: /cv/
 
-#   - title: "Guide"
-#     url: /markdown/
+  - title: "Teaching and Coursework"
+    url: /teaching/
+
+
