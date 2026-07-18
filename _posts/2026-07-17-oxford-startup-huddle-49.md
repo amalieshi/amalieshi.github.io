@@ -7,15 +7,15 @@ date: 2026-07-17
 venue: "Technical Blog"
 ---
 
-# 🚀 From Prototype Gloves to Drone Classrooms: Lessons from the 49th Oxford Startup Huddle
+# From Prototype Gloves to Drone Classrooms: Lessons from the 49th Oxford Startup Huddle
 
 Notes from the Oxford Startup Huddle's 49th iteration, featuring two founders building hardware and education businesses locally.
 
 ## Key Highlights
 
-**🎮 Thieab – Feelix (Gesture-Control Gaming Gloves)**: Recognizing a problem worth solving from early excitement and repeated user engagement, despite imperfect prototypes. Secured a US patent early, pivoted toward gaming where the value was obvious, and prototyped cheaply (~£80/unit) using off-the-shelf parts. Leaned on Oxford's ecosystem — BIPC, Oxford University Innovation, inspire.ac.uk, and gaming meetups. His approach: "sell the simple version; fund the ambitious one."
+** Thieab – Feelix (Gesture-Control Gaming Gloves)**: Recognizing a problem worth solving from early excitement and repeated user engagement, despite imperfect prototypes. Secured a US patent early, pivoted toward gaming where the value was obvious, and prototyped cheaply (~£80/unit) using off-the-shelf parts. Leaned on Oxford's ecosystem — BIPC, Oxford University Innovation, inspire.ac.uk, and gaming meetups. His approach: "sell the simple version; fund the ambitious one."
 
-**🛸 William Arinze – The Drone Rules (Education & FPV Operations)**: Runs drone education and FPV operations spanning Formula racing broadcasts, hospital delivery coordination, and railway ops. Oxford University Innovation sharpened his pitch; The Hill Oxford's Start-Up Labs gave structure. A costly hiring mistake taught him that trust needs formal structures too. Ran a defined two-month test period and restructured the business to run independently of him.
+** William Arinze – The Drone Rules (Education & FPV Operations)**: Runs drone education and FPV operations spanning Formula racing broadcasts, hospital delivery coordination, and railway ops. Oxford University Innovation sharpened his pitch; The Hill Oxford's Start-Up Labs gave structure. A costly hiring mistake taught him that trust needs formal structures too. Ran a defined two-month test period and restructured the business to run independently of him.
 
 ## Shared Principles
 
