@@ -5,6 +5,7 @@ permalink: /year-archive/turning-test-reports
 excerpt: "Learn how to transform manual test specifications into a structured test data layer to enable scalable, automated testing workflows."
 date: 2025-05-14
 venue: "Technical Blog"
+link: "https://medium.com/@huishi1885/turning-manual-test-specs-into-a-test-data-layer-for-scalable-automation-946b88e9b9de"
 ---
 
 # 🔄 Turning Manual Test Specs into a Test Data Layer for Scalable Automation

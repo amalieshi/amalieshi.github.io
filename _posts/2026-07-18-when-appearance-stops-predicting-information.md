@@ -5,6 +5,7 @@ permalink: /year-archive/when-appearance-stops-predicting-information
 excerpt: "Notes from the 2026 Deep Reconstruction Workshop at Penn Medicine's Smilow Center, on how learned image reconstruction can make images look cleaner while carrying less real information."
 date: 2026-07-18
 venue: "Technical Blog"
+link: "https://medium.com/p/fa9d68a966aa"
 ---
 
 # When Appearance Stops Predicting Information: My Experience of the 2026 Deep Reconstruction Workshop

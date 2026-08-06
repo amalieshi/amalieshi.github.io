@@ -5,6 +5,7 @@ permalink: /year-archive/inside-the-uks-quiet-ai-success-story
 excerpt: "What the Hartree National Centre for Digital Innovation's five-year, £210 million partnership with IBM reveals about what actually drives AI adoption — and it isn't more convincing about the technology."
 date: 2026-07-08
 venue: "Technical Blog"
+link: "https://medium.com/@huishi1885/inside-the-uks-quiet-ai-success-story-what-five-years-of-public-private-digital-innovation-3682a5849e2e"
 ---
 
 # Inside the UK's Quiet AI Success Story

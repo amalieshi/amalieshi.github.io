@@ -5,6 +5,7 @@ permalink: /year-archive/medical-informatics-europe-conference-experience
 excerpt: "Reflections and key takeaways from attending the Medical Informatics Europe Conference, highlighting trends and innovations in health data and digital transformation."
 date: 2025-06-24
 venue: "Personal Reflection Blog"
+link: "https://www.linkedin.com/pulse/medical-informatics-europe-conference-experience-amalie-wvbke/?trackingId=EefJBljZ1pXcPV5WdYYb4Q%3D%3D"
 ---
 
 # 🏥 Medical Informatics Europe Conference Experience

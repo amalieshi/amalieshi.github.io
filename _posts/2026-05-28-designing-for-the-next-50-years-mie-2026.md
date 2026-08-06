@@ -5,6 +5,7 @@ permalink: /year-archive/designing-for-the-next-50-years-mie-2026
 excerpt: "Reflections from the Medical Informatics Europe 2026 conference in Genoa, on its 50th anniversary — covering interoperability standards, telemedicine, patient-reported outcomes, and what it means to build healthcare systems that last."
 date: 2026-05-28
 venue: "Technical Blog"
+link: "https://medium.com/p/d28c9d7c8e8c"
 ---
 
 # Designing for the Next 50 Years: An MIE 2026 Retrospective

@@ -5,6 +5,7 @@ permalink: /year-archive/innovation-with-impact-medical-technology-uk-2026
 excerpt: "Insights from the Medical Technology UK conference covering sustainability in MedTech, human-centered design principles, and lessons from product development failures."
 date: 2026-03-13
 venue: "Technical Blog"
+link: "https://medium.com/@huishi1885/innovation-with-impact-my-day-at-medical-technology-uk-2026-4d13d0524655"
 ---
 
 # 🏥 Innovation with Impact: My Day at Medical Technology UK 2026

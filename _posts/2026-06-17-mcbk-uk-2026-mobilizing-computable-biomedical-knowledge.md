@@ -5,6 +5,7 @@ permalink: /year-archive/mcbk-uk-2026-mobilizing-computable-biomedical-knowledge
 excerpt: "Reflections from MCBK UK 2026 on making biomedical knowledge FAIR-T — findable, accessible, interoperable, reproducible, and trusted — as a coordinated ecosystem rather than fragmented effort."
 date: 2026-06-17
 venue: "Technical Blog"
+link: "https://medium.com/@huishi1885/mcbk-uk-2026-mobilizing-computable-biomedical-knowledge-9a3f473fed11"
 ---
 
 # MCBK UK 2026: Mobilizing Computable Biomedical Knowledge
