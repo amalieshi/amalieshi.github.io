@@ -9,7 +9,7 @@ venue: "Technical Blog"
 
 # 🔗 Bridging the Gap: How to Integrate Product and Project Management for Maximum Impact
 
-Explore strategies for integrating product and project management to maximize impact in your organization.
+Product and project management often pull in different directions. The M-O-R approach is one way to align them without losing either discipline's strengths.
 
 Read the full article on Medium:  
 [Bridging the Gap: How to Integrate Product and Project Management for Maximum Impact by Doing M-O-R](https://medium.com/@huishi1885/bridging-the-gap-how-to-integrate-product-and-project-management-for-maximum-impact-by-doing-m-o-r-35100f1d5bed)

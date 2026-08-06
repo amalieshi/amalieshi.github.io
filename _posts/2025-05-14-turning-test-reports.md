@@ -9,8 +9,7 @@ venue: "Technical Blog"
 
 # 🔄 Turning Manual Test Specs into a Test Data Layer for Scalable Automation
 
-Discover strategies for converting manual test specifications into a structured, reusable test data layer.  
-This approach enables scalable automation, improves test coverage, and streamlines validation processes.
+Manual test specs don't scale — but rewriting them from scratch isn't the answer either. Here's how a structured test data layer bridges the two.
 
 Read the full article on Medium:  
 [Turning Manual Test Specs into a Test Data Layer for Scalable Automation](https://medium.com/@huishi1885/turning-manual-test-specs-into-a-test-data-layer-for-scalable-automation-946b88e9b9de)

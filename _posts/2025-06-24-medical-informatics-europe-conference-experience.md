@@ -9,8 +9,7 @@ venue: "Personal Reflection Blog"
 
 # 🏥 Medical Informatics Europe Conference Experience
 
-Gain insights from the Medical Informatics Europe Conference, where experts and innovators gathered to discuss the future of health data, interoperability, and digital transformation in healthcare.
-This article shares personal reflections, key trends, and lessons learned from attending the event.
+A few days among the people building the future of health data left more open questions than answers — in a good way.
 
 Read the full article on LinkedIn:
 [Medical Informatics Europe Conference Experience](https://www.linkedin.com/pulse/medical-informatics-europe-conference-experience-amalie-wvbke/?trackingId=EefJBljZ1pXcPV5WdYYb4Q%3D%3D)

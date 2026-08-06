@@ -9,8 +9,7 @@ venue: "Technical Blog"
 
 # 🤖 Augmented, Not Replaced: What a BCS Seminar Reminded Me About Testing and Judgement
 
-Explore insights from a British Computer Society seminar that highlighted the critical balance between automation and human judgment in software testing.  
-Learn why the future of testing lies in augmenting human expertise with intelligent automation, not replacing it entirely.
+A BCS seminar reframed the automation-vs-judgment debate in testing — and the reframe is less comfortable than either "AI will replace testers" or "AI can't."
 
 Read the full article on Medium:  
 [Augmented, Not Replaced: What a BCS Seminar Reminded Me About Testing and Judgement](https://medium.com/@huishi1885/augmented-not-replaced-what-a-bcs-seminar-reminded-me-about-testing-and-judgement-663c133452bb)
