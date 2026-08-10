@@ -50,8 +50,8 @@ redirect_from:
 * **Biomedical Engineering:**  
   Medical imaging systems, diagnostic imaging pipelines, CT image reconstruction (FBP, PL), biophysical modeling, medical device design, process validation, and systems verification.  
 
-* **Software and Automation:**  
-  Python (Pytest, Selenium, Pandas, NumPy, API integration), SQL, XML, MATLAB, LabVIEW, C++, Git, and CI/CD workflows for software validation and regression testing.  
+* **Software Engineering & Full Stack Development:**  
+  Python (Pandas, NumPy, API integration), SQL, XML, MATLAB, LabVIEW, C++, Git, and CI/CD workflows for application development and release engineering.  
 
 * **Data Engineering and Computational Tools:**  
   Data acquisition and transformation (ETL pipelines), statistical analysis, modeling and simulation of biological systems, and data visualization.  
@@ -63,19 +63,19 @@ redirect_from:
 
 # Work Experience
 
-### **Software Test Engineer**, Adaptix Imaging — Oxford, United Kingdom  
+### **Software Engineer**, Adaptix Imaging — Oxford, United Kingdom  
 *October 2022 – Present*  
-- Develop and maintain **automated test frameworks** for validating X-ray imaging software and hardware.  
-- Design **Python-based UI testing tools** to streamline verification workflows and ensure compliance with **ISO 13485** and **IEC 62304** standards.  
-- Collaborate with interdisciplinary teams to support software and hardware validation activities.
-- Conduct **system verification and validation** testing across embedded hardware and software subsystems.
+- Design and build **Python-based software tools and data pipelines** for X-ray imaging systems, spanning UI, backend integration, and reporting.  
+- Build **Python-based application and UI tooling** to streamline software workflows and ensure compliance with **ISO 13485** and **IEC 62304** standards.  
+- Collaborate with interdisciplinary teams to design and deliver software and hardware solutions.
+- Build **data-driven monitoring and reporting systems** across embedded hardware and software subsystems.
 
 ---
 
 ### **Software Applications Engineer**, Informetric Systems Inc — New Providence, NJ  
 *January 2020 – August 2022*  
 - Gathered, analyzed, and mapped user and process requirements into configurable automation logic for InfoBatch manufacturing systems, driving digital transformation and process optimization for pharmaceutical clients.  
-- Developed, tested, and validated 5 software updates and hotfixes for InfoBatch and managed the software release and product launch of InfoLog, including setup of VM-based test environments, creation of installation packages using Advanced Installer, and design of new automated test procedures.  
+- Developed, deployed, and validated 5 software updates and hotfixes for InfoBatch and managed the software release and product launch of InfoLog, including setup of VM-based environments, creation of installation packages using Advanced Installer, and design of new automated release workflows.  
 - Provided high-level technical support to resolve complex issues (e.g., HTML report formatting, delayed data uploads, printer integration) — ensuring system uptime, customer satisfaction, and operational continuity.  
 - Collaborated with software developers, QA, and client engineering teams to align requirements and deliver robust, production-ready solutions.  
 
