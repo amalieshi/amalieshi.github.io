@@ -63,12 +63,16 @@ redirect_from:
 
 # Work Experience
 
-### **Software Engineer**, Adaptix Imaging — Oxford, United Kingdom  
+### **Software Test Engineer**, Adaptix Imaging — Oxford, United Kingdom  
 *October 2022 – Present*  
-- Design and build **Python-based software tools and data pipelines** for X-ray imaging systems, spanning UI, backend integration, and reporting.  
-- Build **Python-based application and UI tooling** to streamline software workflows and ensure compliance with **ISO 13485** and **IEC 62304** standards.  
-- Collaborate with interdisciplinary teams to design and deliver software and hardware solutions.
-- Build **data-driven monitoring and reporting systems** across embedded hardware and software subsystems.
+*Design verification for the Ortho350 3D orthopaedic X-ray system, from beta release through 1.0.0.10.*
+- Authored 20 approved design history file documents (verification specifications, test plans and run reports) with full requirements traceability in **Jama**.
+- Built a **Python/pytest** UI automation framework using the **Page Object Model** for the Ortho and NCC imaging applications; the Ortho suite runs 47 hardware-in-the-loop tests with power cycling between tests and generates HTML evidence reports with video, screenshots and DICOM output.
+- Owned the Ortho UI Software Verification Specification (81 verification items).
+- Designed and ran a five-year service-life durability programme: more than 39,000 automated acquisitions across five test cycles and three device orientations, with a Raspberry Pi-emulated activation switch and air calibration stability analysis; no failures or mechanical degradation.
+- Executed 220 formal verification test cases for release 1.0.0.5 across UI software, TAC service, HDES gateway, Mini-PC OS, UI device OS, and system and security verification.
+- Verified hospital enterprise integration (HDES gateway) with RIS and PACS: Modality Worklist, MPPS, RDSR, C-STORE, Storage Commitment and TLS; found pre-release DICOM defects in tag-to-keyword conversion, original/derived image classification and gateway configuration.
+- Verified cybersecurity of the control PC and embedded mini-PC: disk encryption, BIOS and boot hardening, firewall rules, peripheral lockdown, audit logging, identity provider integration and access control; identified access control failures and **IEC 60601-1** documentation gaps before release.
 
 ---
 

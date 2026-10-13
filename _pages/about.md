@@ -10,11 +10,11 @@ redirect_from:
 
 ## About Me
 
-I am a full stack software engineer specializing in healthcare informatics, building data-driven applications and systems that support clinical imaging workflows. My work spans backend architecture, data pipelining, and human-centered design, translating complex clinical and regulatory requirements into reliable, maintainable software.
+I am a software development engineer in test specializing in healthcare informatics, building automated test frameworks and verification systems that ensure the safety, reliability, and compliance of clinical imaging and medical device software. My work spans test automation architecture, requirements traceability, and quality engineering, translating complex clinical and regulatory requirements into robust, well-verified software systems.
 
 I hold a Master's degree in Biomedical Engineering from Johns Hopkins University and a Bachelor's degree in Biomedical Engineering from the Georgia Institute of Technology.
 
-My professional interests include full stack software architecture, data engineering, and data-driven design approaches that improve compliance, interoperability, and efficiency in clinical systems.
+My professional interests include test automation architecture, software verification and validation, and data-driven quality engineering approaches that improve compliance, reliability, and efficiency in clinical systems.
 
 I am a certified Project Management Professional (PMP), Engineer in Training (EIT), ISTQB Certified Test Automation Engineer (CTAL-TAE), and ASQ Certified Six Sigma Yellow Belt (CSSYB).
 
